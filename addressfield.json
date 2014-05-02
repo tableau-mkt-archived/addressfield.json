@@ -1,0 +1,4585 @@
+{
+  "label" : "Country",
+  "options" : {
+    "AF" : {
+      "label" : "Afghanistan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AX" : {
+      "label" : "Aland Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "postalcode" : {
+        "label" : "Postal code"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AL" : {
+      "label" : "Albania",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "DZ" : {
+      "label" : "Algeria",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AS" : {
+      "label" : "American Samoa",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AD" : {
+      "label" : "Andorra",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AO" : {
+      "label" : "Angola",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AI" : {
+      "label" : "Anguilla",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AQ" : {
+      "label" : "Antarctica",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AG" : {
+      "label" : "Antigua and Barbuda",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AR" : {
+      "label" : "Argentina",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "AM" : {
+      "label" : "Armenia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AW" : {
+      "label" : "Aruba",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AU" : {
+      "label" : "Australia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State",
+          "options" : {
+            "ACT" : "Australian Capital Territory",
+            "NSW" : "New South Wales",
+            "NT" : "Northern Territory",
+            "QLD" : "Queensland",
+            "SA" : "South Australia",
+            "TAS" : "Tasmania",
+            "VIC" : "Victoria",
+            "WA" : "Western Australia"
+          }
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "AT" : {
+      "label" : "Austria",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AZ" : {
+      "label" : "Azerbaijan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BS" : {
+      "label" : "Bahamas",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "BH" : {
+      "label" : "Bahrain",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "BD" : {
+      "label" : "Bangladesh",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "BB" : {
+      "label" : "Barbados",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BY" : {
+      "label" : "Belarus",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "BE" : {
+      "label" : "Belgium",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BZ" : {
+      "label" : "Belize",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "BJ" : {
+      "label" : "Benin",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BM" : {
+      "label" : "Bermuda",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "BT" : {
+      "label" : "Bhutan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "localityname" : {
+        "label" : "City"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "BO" : {
+      "label" : "Bolivia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BA" : {
+      "label" : "Bosnia and Herzegovina",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BW" : {
+      "label" : "Botswana",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BV" : {
+      "label" : "Bouvet Island",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BR" : {
+      "label" : "Brazil",
+      "thoroughfare" : {
+        "label" : "Thoroughfare"
+      },
+      "premise" : {
+        "label" : "Complement"
+      },
+      "dependent_localityname" : {
+        "label" : "Neighborhood"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State",
+          "options" : {
+            "AC" : "Acre",
+            "AL" : "Alagoas",
+            "AM" : "Amazonas",
+            "AP" : "Amapa",
+            "BA" : "Bahia",
+            "CE" : "Ceara",
+            "DF" : "Distrito Federal",
+            "ES" : "Espirito Santo",
+            "GO" : "Goias",
+            "MA" : "Maranhao",
+            "MG" : "Minas Gerais",
+            "MS" : "Mato Grosso do Sul",
+            "MT" : "Mato Grosso",
+            "PA" : "Para",
+            "PB" : "Paraiba",
+            "PE" : "Pernambuco",
+            "PI" : "Piaui",
+            "PR" : "Parana",
+            "RJ" : "Rio de Janeiro",
+            "RN" : "Rio Grande do Norte",
+            "RO" : "Rondonia",
+            "RR" : "Roraima",
+            "RS" : "Rio Grande do Sul",
+            "SC" : "Santa Catarina",
+            "SE" : "Sergipe",
+            "SP" : "Sao Paulo",
+            "TO" : "Tocantins"
+          }
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "IO" : {
+      "label" : "British Indian Ocean Territory",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "VG" : {
+      "label" : "British Virgin Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "BN" : {
+      "label" : "Brunei",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "BG" : {
+      "label" : "Bulgaria",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BF" : {
+      "label" : "Burkina Faso",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "BI" : {
+      "label" : "Burundi",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "KH" : {
+      "label" : "Cambodia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "CM" : {
+      "label" : "Cameroon",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CA" : {
+      "label" : "Canada",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "Province",
+          "options" : {
+            "AB" : "Alberta",
+            "BC" : "British Columbia",
+            "MB" : "Manitoba",
+            "NB" : "New Brunswick",
+            "NL" : "Newfoundland",
+            "NT" : "Northwest Territories",
+            "NS" : "Nova Scotia",
+            "NU" : "Nunavut",
+            "ON" : "Ontario",
+            "PE" : "Prince Edward Island",
+            "QC" : "Quebec",
+            "SK" : "Saskatchewan",
+            "YT" : "Yukon Territory"
+          }
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "CV" : {
+      "label" : "Cape Verde",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "KY" : {
+      "label" : "Cayman Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "CF" : {
+      "label" : "Central African Republic",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TD" : {
+      "label" : "Chad",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CL" : {
+      "label" : "Chile",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CN" : {
+      "label" : "China",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "Province",
+          "options" : {
+            "BJ" : "Beijing",
+            "SH" : "Shanghai",
+            "GD" : "Guangdong",
+            "TJ" : "Tianjin",
+            "HE" : "Hebei",
+            "SX" : "Shanxi",
+            "NM" : "Inner Mongolia",
+            "LN" : "Liaoning",
+            "JL" : "Jilin",
+            "HL" : "Heilongjiang",
+            "JS" : "Jiangsu",
+            "ZJ" : "Zhejiang",
+            "AH" : "Anhui",
+            "FJ" : "Fujian",
+            "JX" : "Jiangxi",
+            "SD" : "Shandong",
+            "HA" : "Henan",
+            "HB" : "Hubei",
+            "HN" : "Hunan",
+            "GX" : "Guangxi",
+            "HI" : "Hainan",
+            "CQ" : "Chongqing",
+            "SC" : "Sichuan",
+            "GZ" : "Guizhou",
+            "YN" : "Yunnan",
+            "XZ" : "Tibet",
+            "SN" : "Shaanxi",
+            "GS" : "Gansu",
+            "QH" : "Qinghai",
+            "NX" : "Ningxia Hui",
+            "XJ" : "Xinjiang Uyghur"
+          }
+        }
+      }
+    },
+    "CX" : {
+      "label" : "Christmas Island",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CC" : {
+      "label" : "Cocos (Keeling) Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CO" : {
+      "label" : "Colombia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "KM" : {
+      "label" : "Comoros",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CG" : {
+      "label" : "Congo (Brazzaville)",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CD" : {
+      "label" : "Congo (Kinshasa)",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CK" : {
+      "label" : "Cook Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CR" : {
+      "label" : "Costa Rica",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CU" : {
+      "label" : "Cuba",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "HR" : {
+      "label" : "Croatia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CW" : {
+      "label" : "Cura\u00e7ao",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CY" : {
+      "label" : "Cyprus",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CZ" : {
+      "label" : "Czech Republic",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "DK" : {
+      "label" : "Denmark",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "DJ" : {
+      "label" : "Djibouti",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "DM" : {
+      "label" : "Dominica",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "DO" : {
+      "label" : "Dominican Republic",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "EC" : {
+      "label" : "Ecuador",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "EG" : {
+      "label" : "Egypt",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "SV" : {
+      "label" : "El Salvador",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "GQ" : {
+      "label" : "Equatorial Guinea",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "ER" : {
+      "label" : "Eritrea",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "EE" : {
+      "label" : "Estonia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "ET" : {
+      "label" : "Ethiopia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "FK" : {
+      "label" : "Falkland Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "FO" : {
+      "label" : "Faroe Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "FJ" : {
+      "label" : "Fiji",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "FI" : {
+      "label" : "Finland",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "FR" : {
+      "label" : "France",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GF" : {
+      "label" : "French Guiana",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "PF" : {
+      "label" : "French Polynesia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "TF" : {
+      "label" : "French Southern Territories",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GA" : {
+      "label" : "Gabon",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GM" : {
+      "label" : "Gambia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GE" : {
+      "label" : "Georgia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "DE" : {
+      "label" : "Germany",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GH" : {
+      "label" : "Ghana",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GI" : {
+      "label" : "Gibraltar",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GR" : {
+      "label" : "Greece",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GL" : {
+      "label" : "Greenland",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GD" : {
+      "label" : "Grenada",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GP" : {
+      "label" : "Guadeloupe",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GU" : {
+      "label" : "Guam",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GT" : {
+      "label" : "Guatemala",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GG" : {
+      "label" : "Guernsey",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GN" : {
+      "label" : "Guinea",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GW" : {
+      "label" : "Guinea-Bissau",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GY" : {
+      "label" : "Guyana",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "HT" : {
+      "label" : "Haiti",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "HM" : {
+      "label" : "Heard Island and McDonald Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "HN" : {
+      "label" : "Honduras",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "HK" : {
+      "label" : "Hong Kong S.A.R., China",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "HU" : {
+      "label" : "Hungary",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "IS" : {
+      "label" : "Iceland",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "IN" : {
+      "label" : "India",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State",
+          "options" : {
+            "AP" : "Andhra Pradesh",
+            "AR" : "Arunachal Pradesh",
+            "AS" : "Assam",
+            "BR" : "Bihar",
+            "CT" : "Chhattisgarh",
+            "GA" : "Goa",
+            "GJ" : "Gujarat",
+            "HR" : "Haryana",
+            "HP" : "Himachal Pradesh",
+            "JK" : "Jammu and Kashmir",
+            "JH" : "Jharkhand",
+            "KA" : "Karnataka",
+            "KL" : "Kerala",
+            "MP" : "Madhya Pradesh",
+            "MH" : "Maharashtra",
+            "MN" : "Manipur",
+            "ML" : "Meghalaya",
+            "MZ" : "Mizoram",
+            "NL" : "Nagaland",
+            "OR" : "Odisha",
+            "PB" : "Punjab",
+            "RJ" : "Rajasthan",
+            "SK" : "Sikkim",
+            "TN" : "Tamil Nadu",
+            "TR" : "Tripura",
+            "UP" : "Uttar Pradesh",
+            "UT" : "Uttarakhand",
+            "WB" : "West Bengal",
+            " " : "--",
+            "AN" : "Andaman and Nicobar Islands",
+            "CH" : "Chandigarh",
+            "DN" : "Dadra and Nagar Haveli",
+            "DD" : "Daman and Diu",
+            "LD" : "Lakshadweep",
+            "DL" : "National Capital Territory of Delhi",
+            "PY" : "Puducherry"
+          }
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "ID" : {
+      "label" : "Indonesia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "IR" : {
+      "label" : "Iran",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "IQ" : {
+      "label" : "Iraq",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "IE" : {
+      "label" : "Ireland",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "County"
+        }
+      }
+    },
+    "IM" : {
+      "label" : "Isle of Man",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "IL" : {
+      "label" : "Israel",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "IT" : {
+      "label" : "Italy",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "Province",
+          "options" : {
+            "AG" : "Agrigento",
+            "AL" : "Alessandria",
+            "AN" : "Ancona",
+            "AO" : "Valle d'Aosta/Vallée d'Aoste",
+            "AP" : "Ascoli Piceno",
+            "AQ" : "L'Aquila",
+            "AR" : "Arezzo",
+            "AT" : "Asti",
+            "AV" : "Avellino",
+            "BA" : "Bari",
+            "BG" : "Bergamo",
+            "BI" : "Biella",
+            "BL" : "Belluno",
+            "BN" : "Benevento",
+            "BO" : "Bologna",
+            "BR" : "Brindisi",
+            "BS" : "Brescia",
+            "BT" : "Barletta-Andria-Trani",
+            "BZ" : "Bolzano/Bozen",
+            "CA" : "Cagliari",
+            "CB" : "Campobasso",
+            "CE" : "Caserta",
+            "CH" : "Chieti",
+            "CI" : "Carbonia-Iglesias",
+            "CL" : "Caltanissetta",
+            "CN" : "Cuneo",
+            "CO" : "Como",
+            "CR" : "Cremona",
+            "CS" : "Cosenza",
+            "CT" : "Catania",
+            "CZ" : "Catanzaro",
+            "EN" : "Enna",
+            "FC" : "Forlì-Cesena",
+            "FE" : "Ferrara",
+            "FG" : "Foggia",
+            "FI" : "Firenze",
+            "FM" : "Fermo",
+            "FR" : "Frosinone",
+            "GE" : "Genova",
+            "GO" : "Gorizia",
+            "GR" : "Grosseto",
+            "IM" : "Imperia",
+            "IS" : "Isernia",
+            "KR" : "Crotone",
+            "LC" : "Lecco",
+            "LE" : "Lecce",
+            "LI" : "Livorno",
+            "LO" : "Lodi",
+            "LT" : "Latina",
+            "LU" : "Lucca",
+            "MB" : "Monza e Brianza",
+            "MC" : "Macerata",
+            "ME" : "Messina",
+            "MI" : "Milano",
+            "MN" : "Mantova",
+            "MO" : "Modena",
+            "MS" : "Massa-Carrara",
+            "MT" : "Matera",
+            "NA" : "Napoli",
+            "NO" : "Novara",
+            "NU" : "Nuoro",
+            "OG" : "Ogliastra",
+            "OR" : "Oristano",
+            "OT" : "Olbia-Tempio",
+            "PA" : "Palermo",
+            "PC" : "Piacenza",
+            "PD" : "Padova",
+            "PE" : "Pescara",
+            "PG" : "Perugia",
+            "PI" : "Pisa",
+            "PN" : "Pordenone",
+            "PO" : "Prato",
+            "PR" : "Parma",
+            "PT" : "Pistoia",
+            "PU" : "Pesaro e Urbino",
+            "PV" : "Pavia",
+            "PZ" : "Potenza",
+            "RA" : "Ravenna",
+            "RC" : "Reggio di Calabria",
+            "RE" : "Reggio nell'Emilia",
+            "RG" : "Ragusa",
+            "RI" : "Rieti",
+            "RM" : "Roma",
+            "RN" : "Rimini",
+            "RO" : "Rovigo",
+            "SA" : "Salerno",
+            "SI" : "Siena",
+            "SO" : "Sondrio",
+            "SP" : "La Spezia",
+            "SR" : "Siracusa",
+            "SS" : "Sassari",
+            "SV" : "Savona",
+            "TA" : "Taranto",
+            "TE" : "Teramo",
+            "TN" : "Trento",
+            "TO" : "Torino",
+            "TP" : "Trapani",
+            "TR" : "Terni",
+            "TS" : "Trieste",
+            "TV" : "Treviso",
+            "UD" : "Udine",
+            "VA" : "Varese",
+            "VB" : "Verbano-Cusio-Ossola",
+            "VC" : "Vercelli",
+            "VE" : "Venezia",
+            "VI" : "Vicenza",
+            "VR" : "Verona",
+            "VS" : "Medio Campidano",
+            "VT" : "Viterbo",
+            "VV" : "Vibo Valentia"
+          }
+        }
+      }
+    },
+    "CI" : {
+      "label" : "Ivory Coast",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "JM" : {
+      "label" : "Jamaica",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "JP" : {
+      "label" : "Japan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "Prefecture",
+          "options" : {
+            "Hokkaido" : "Hokkaido",
+            "Aomori" : "Aomori",
+            "Iwate" : "Iwate",
+            "Miyagi" : "Miyagi",
+            "Akita" : "Akita",
+            "Yamagata" : "Yamagata",
+            "Fukushima" : "Fukushima",
+            "Ibaraki" : "Ibaraki",
+            "Tochigi" : "Tochigi",
+            "Gunma" : "Gunma",
+            "Saitama" : "Saitama",
+            "Chiba" : "Chiba",
+            "Tokyo" : "Tokyo",
+            "Kanagawa" : "Kanagawa",
+            "Niigata" : "Niigata",
+            "Toyama" : "Toyama",
+            "Ishikawa" : "Ishikawa",
+            "Fukui" : "Fukui",
+            "Yamanashi" : "Yamanashi",
+            "Nagano" : "Nagano",
+            "Gifu" : "Gifu",
+            "Shizuoka" : "Shizuoka",
+            "Aichi" : "Aichi",
+            "Mie" : "Mie",
+            "Shiga" : "Shiga",
+            "Kyoto" : "Kyoto",
+            "Osaka" : "Osaka",
+            "Hyogo" : "Hyogo",
+            "Nara" : "Nara",
+            "Wakayama" : "Wakayama",
+            "Tottori" : "Tottori",
+            "Shimane" : "Shimane",
+            "Okayama" : "Okayama",
+            "Hiroshima" : "Hiroshima",
+            "Yamaguchi" : "Yamaguchi",
+            "Tokushima" : "Tokushima",
+            "Kagawa" : "Kagawa",
+            "Ehime" : "Ehime",
+            "Kochi" : "Kochi",
+            "Fukuoka" : "Fukuoka",
+            "Saga" : "Saga",
+            "Nagasaki" : "Nagasaki",
+            "Kumamoto" : "Kumamoto",
+            "Oita" : "Oita",
+            "Miyazaki" : "Miyazaki",
+            "Kagoshima" : "Kagoshima",
+            "Okinawa" : "Okinawa"
+          }
+        }
+      }
+    },
+    "JE" : {
+      "label" : "Jersey",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "JO" : {
+      "label" : "Jordan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "KZ" : {
+      "label" : "Kazakhstan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "KE" : {
+      "label" : "Kenya",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "KI" : {
+      "label" : "Kiribati",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "KW" : {
+      "label" : "Kuwait",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "KG" : {
+      "label" : "Kyrgyzstan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "premise" : {
+          "label" : "Address 2"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "LA" : {
+      "label" : "Laos",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "LV" : {
+      "label" : "Latvia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "LB" : {
+      "label" : "Lebanon",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "LS" : {
+      "label" : "Lesotho",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "LR" : {
+      "label" : "Liberia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "LY" : {
+      "label" : "Libya",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "LI" : {
+      "label" : "Liechtenstein",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "LT" : {
+      "label" : "Lithuania",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "LU" : {
+      "label" : "Luxembourg",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MO" : {
+      "label" : "Macao S.A.R., China",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MK" : {
+      "label" : "Macedonia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MG" : {
+      "label" : "Madagascar",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MW" : {
+      "label" : "Malawi",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "MY" : {
+      "label" : "Malaysia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "MV" : {
+      "label" : "Maldives",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "ML" : {
+      "label" : "Mali",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MT" : {
+      "label" : "Malta",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MH" : {
+      "label" : "Marshall Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MQ" : {
+      "label" : "Martinique",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MR" : {
+      "label" : "Mauritania",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MU" : {
+      "label" : "Mauritius",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "YT" : {
+      "label" : "Mayotte",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MX" : {
+      "label" : "Mexico",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "FM" : {
+      "label" : "Micronesia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "MD" : {
+      "label" : "Moldova",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MC" : {
+      "label" : "Monaco",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MN" : {
+      "label" : "Mongolia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "ME" : {
+      "label" : "Montenegro",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MS" : {
+      "label" : "Montserrat",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MA" : {
+      "label" : "Morocco",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MZ" : {
+      "label" : "Mozambique",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "MM" : {
+      "label" : "Myanmar",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "NA" : {
+      "label" : "Namibia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "NR" : {
+      "label" : "Nauru",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "NP" : {
+      "label" : "Nepal",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "NL" : {
+      "label" : "Netherlands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "AN" : {
+      "label" : "Netherlands Antilles",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "NC" : {
+      "label" : "New Caledonia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "NZ" : {
+      "label" : "New Zealand",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "Town/city"
+        },
+        "administrativearea" : {
+          "label" : "Region",
+          "options" : {
+            "AUK" : "Aukland",
+            "BOP" : "Bay of Plenty",
+            "CAN" : "Canterbury",
+            "HKB" : "Hawke's Bay",
+            "MWT" : "Manawatu-Wanganui",
+            "NTL" : "Northland",
+            "OTA" : "Otago",
+            "STL" : "Southland",
+            "TKI" : "Taranaki",
+            "WKO" : "Waikato",
+            "WGN" : "Wellington",
+            "WTC" : "West Coast",
+            "GIS" : "Gisborne District",
+            "MBH" : "Marlborough District",
+            "NSN" : "Nelson",
+            "TAS" : "Tasman District",
+            "CIT" : "Chatham Islands Territory"
+          }
+        },
+        "postalcode" : {
+          "label" : "Postcode"
+        }
+      }
+    },
+    "NI" : {
+      "label" : "Nicaragua",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "NE" : {
+      "label" : "Niger",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "NG" : {
+      "label" : "Nigeria",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "NU" : {
+      "label" : "Niue",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "NF" : {
+      "label" : "Norfolk Island",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MP" : {
+      "label" : "Northern Mariana Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "KP" : {
+      "label" : "North Korea",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "NO" : {
+      "label" : "Norway",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "OM" : {
+      "label" : "Oman",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "PK" : {
+      "label" : "Pakistan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "PW" : {
+      "label" : "Palau",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "PS" : {
+      "label" : "Palestinian Territory",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "PA" : {
+      "label" : "Panama",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "PG" : {
+      "label" : "Papua New Guinea",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "PY" : {
+      "label" : "Paraguay",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "PE" : {
+      "label" : "Peru",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "PH" : {
+      "label" : "Philippines",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "PN" : {
+      "label" : "Pitcairn",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "PL" : {
+      "label" : "Poland",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "PT" : {
+      "label" : "Portugal",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "PR" : {
+      "label" : "Puerto Rico",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "QA" : {
+      "label" : "Qatar",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "RE" : {
+      "label" : "Reunion",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "RO" : {
+      "label" : "Romania",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "RU" : {
+      "label" : "Russia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "RW" : {
+      "label" : "Rwanda",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "BL" : {
+      "label" : "Saint Barth\u00e9lemy",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SH" : {
+      "label" : "Saint Helena",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "KN" : {
+      "label" : "Saint Kitts and Nevis",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "LC" : {
+      "label" : "Saint Lucia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "MF" : {
+      "label" : "Saint Martin (French part)",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "PM" : {
+      "label" : "Saint Pierre and Miquelon",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "VC" : {
+      "label" : "Saint Vincent and the Grenadines",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "WS" : {
+      "label" : "Samoa",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SM" : {
+      "label" : "San Marino",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "ST" : {
+      "label" : "Sao Tome and Principe",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SA" : {
+      "label" : "Saudi Arabia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "SN" : {
+      "label" : "Senegal",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "RS" : {
+      "label" : "Serbia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SC" : {
+      "label" : "Seychelles",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SL" : {
+      "label" : "Sierra Leone",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SG" : {
+      "label" : "Singapore",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "SK" : {
+      "label" : "Slovakia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SI" : {
+      "label" : "Slovenia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SB" : {
+      "label" : "Solomon Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SO" : {
+      "label" : "Somalia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "ZA" : {
+      "label" : "South Africa",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "Province",
+          "options" : {
+            "Eastern Cape" : "Eastern Cape",
+            "Free State" : "Free State",
+            "Gauteng" : "Gauteng",
+            "KwaZulu-Natal" : "KwaZulu-Natal",
+            "Limpopo" : "Limpopo",
+            "Mpumalanga" : "Mpumalanga",
+            "North West" : "North West",
+            "Northern Cape" : "Northern Cape",
+            "Western Cape" : "Western Cape"
+          }
+        }
+      }
+    },
+    "GS" : {
+      "label" : "South Georgia and the South Sandwich Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "KR" : {
+      "label" : "South Korea",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "ES" : {
+      "label" : "Spain",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "Province"
+        }
+      }
+    },
+    "LK" : {
+      "label" : "Sri Lanka",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SD" : {
+      "label" : "Sudan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SR" : {
+      "label" : "Suriname",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "SJ" : {
+      "label" : "Svalbard and Jan Mayen",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SZ" : {
+      "label" : "Swaziland",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SE" : {
+      "label" : "Sweden",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "CH" : {
+      "label" : "Switzerland",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "SY" : {
+      "label" : "Syria",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TW" : {
+      "label" : "Taiwan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "TJ" : {
+      "label" : "Tajikistan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TZ" : {
+      "label" : "Tanzania",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TH" : {
+      "label" : "Thailand",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "TL" : {
+      "label" : "Timor-Leste",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TG" : {
+      "label" : "Togo",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TK" : {
+      "label" : "Tokelau",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TO" : {
+      "label" : "Tonga",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TT" : {
+      "label" : "Trinidad and Tobago",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TN" : {
+      "label" : "Tunisia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TR" : {
+      "label" : "Turkey",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TM" : {
+      "label" : "Turkmenistan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TC" : {
+      "label" : "Turks and Caicos Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "TV" : {
+      "label" : "Tuvalu",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "VI" : {
+      "label" : "U.S. Virgin Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "UG" : {
+      "label" : "Uganda",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "UA" : {
+      "label" : "Ukraine",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "AE" : {
+      "label" : "United Arab Emirates",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "GB" : {
+      "label" : "United Kingdom",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "Town/city"
+        },
+        "administrativearea" : {
+          "label" : "County"
+        },
+        "postalcode" : {
+          "label" : "Postcode"
+        }
+      }
+    },
+    "US" : {
+      "label" : "United States",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State",
+          "options" : {
+            "AL" : "Alabama",
+            "AK" : "Alaska",
+            "AZ" : "Arizona",
+            "AR" : "Arkansas",
+            "CA" : "California",
+            "CO" : "Colorado",
+            "CT" : "Connecticut",
+            "DE" : "Delaware",
+            "DC" : "District Of Columbia",
+            "FL" : "Florida",
+            "GA" : "Georgia",
+            "HI" : "Hawaii",
+            "ID" : "Idaho",
+            "IL" : "Illinois",
+            "IN" : "Indiana",
+            "IA" : "Iowa",
+            "KS" : "Kansas",
+            "KY" : "Kentucky",
+            "LA" : "Louisiana",
+            "ME" : "Maine",
+            "MD" : "Maryland",
+            "MA" : "Massachusetts",
+            "MI" : "Michigan",
+            "MN" : "Minnesota",
+            "MS" : "Mississippi",
+            "MO" : "Missouri",
+            "MT" : "Montana",
+            "NE" : "Nebraska",
+            "NV" : "Nevada",
+            "NH" : "New Hampshire",
+            "NJ" : "New Jersey",
+            "NM" : "New Mexico",
+            "NY" : "New York",
+            "NC" : "North Carolina",
+            "ND" : "North Dakota",
+            "OH" : "Ohio",
+            "OK" : "Oklahoma",
+            "OR" : "Oregon",
+            "PA" : "Pennsylvania",
+            "RI" : "Rhode Island",
+            "SC" : "South Carolina",
+            "SD" : "South Dakota",
+            "TN" : "Tennessee",
+            "TX" : "Texas",
+            "UT" : "Utah",
+            "VT" : "Vermont",
+            "VA" : "Virginia",
+            "WA" : "Washington",
+            "WV" : "West Virginia",
+            "WI" : "Wisconsin",
+            "WY" : "Wyoming",
+            " " : "--",
+            "AS" : "American Samoa",
+            "FM" : "Federated States of Micronesia",
+            "GU" : "Guam",
+            "MH" : "Marshall Islands",
+            "MP" : "Northern Mariana Islands",
+            "PW" : "Palau",
+            "PR" : "Puerto Rico",
+            "VI" : "Virgin Islands"
+          }
+        },
+        "postalcode" : {
+          "label" : "ZIP code"
+        }
+      }
+    },
+    "UM" : {
+      "label" : "United States Minor Outlying Islands",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "UY" : {
+      "label" : "Uruguay",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "UZ" : {
+      "label" : "Uzbekistan",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "VU" : {
+      "label" : "Vanuatu",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "VA" : {
+      "label" : "Vatican",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "VE" : {
+      "label" : "Venezuela",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        }
+      }
+    },
+    "VN" : {
+      "label" : "Vietnam",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
+        "administrativearea" : {
+          "label" : "State"
+        },
+        "postalcode" : {
+          "label" : "Postal code"
+        }
+      }
+    },
+    "WF" : {
+      "label" : "Wallis and Futuna",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "EH" : {
+      "label" : "Western Sahara",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "YE" : {
+      "label" : "Yemen",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "ZM" : {
+      "label" : "Zambia",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    },
+    "ZW" : {
+      "label" : "Zimbabwe",
+      "thoroughfare" : {
+        "label" : "Address 1"
+      },
+      "premise" : {
+        "label" : "Address 2"
+      },
+      "locality" : {
+        "localityname" : {
+          "label" : "City"
+        }
+      }
+    }
+  }
+}
