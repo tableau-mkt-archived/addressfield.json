@@ -2936,7 +2936,7 @@
         "administrativearea" : {
           "label" : "Region",
           "options" : {
-            "AUK" : "Aukland",
+            "AUK" : "Auckland",
             "BOP" : "Bay of Plenty",
             "CAN" : "Canterbury",
             "HKB" : "Hawke's Bay",
