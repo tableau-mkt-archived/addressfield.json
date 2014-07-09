@@ -37,7 +37,7 @@ instance:
     "locality" : {
       "localityname" : {
         "label" : "City"
-      }
+      },
       "administrativearea" : {
         "label" : "Province",
         "options" : {
