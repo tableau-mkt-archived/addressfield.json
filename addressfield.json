@@ -23,10 +23,10 @@
       "premise" : {
         "label" : "Address 2"
       },
-      "postalcode" : {
-        "label" : "Postal code"
-      },
       "locality" : {
+        "postalcode" : {
+          "label" : "Postal code"
+        },
         "localityname" : {
           "label" : "City"
         }
