@@ -10,7 +10,7 @@ module.exports = function(grunt) {
     },
     jsonlint: {
       sample: {
-        src: [ 'addressfield.json' ]
+        src: [ 'src/addressfield.json' ]
       }
     },
     jsonmin: {
@@ -20,7 +20,7 @@ module.exports = function(grunt) {
           stripComments: true
         },
         files: {
-          "build/addressfield.min.json" : "addressfield.json",
+          "build/addressfield.min.json" : "src/addressfield.json"
         }
       }
     }
