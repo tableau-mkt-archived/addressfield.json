@@ -435,10 +435,10 @@
       "premise" : {
         "label" : "Address 2"
       },
-      "localityname" : {
-        "label" : "City"
-      },
       "locality" : {
+        "localityname" : {
+          "label" : "City"
+        },
         "postalcode" : {
           "label" : "Postal code"
         }
