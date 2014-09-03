@@ -1845,6 +1845,36 @@
       ]
     },
     {
+      "label": "Cuba",
+      "iso": "CU",
+      "fields": [
+        {
+          "thoroughfare": {
+            "label": "Address 1"
+          }
+        },
+        {
+          "premise": {
+            "label": "Address 2"
+          }
+        },
+        {
+          "locality": [
+            {
+              "postalcode": {
+                "label": "Postal code"
+              }
+            },
+            {
+              "localityname": {
+                "label": "City"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "label": "Croatia",
       "iso": "HR",
       "fields": [
@@ -3346,6 +3376,36 @@
             {
               "postalcode": {
                 "label": "Postal code"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Iran",
+      "iso": "IR",
+      "fields": [
+        {
+          "thoroughfare": {
+            "label": "Address 1"
+          }
+        },
+        {
+          "premise": {
+            "label": "Address 2"
+          }
+        },
+        {
+          "locality": [
+            {
+              "postalcode": {
+                "label": "Postal code"
+              }
+            },
+            {
+              "localityname": {
+                "label": "City"
               }
             }
           ]
@@ -5730,6 +5790,31 @@
       ]
     },
     {
+      "label": "North Korea",
+      "iso": "KP",
+      "fields": [
+        {
+          "thoroughfare": {
+            "label": "Address 1"
+          }
+        },
+        {
+          "premise": {
+            "label": "Address 2"
+          }
+        },
+        {
+          "locality": [
+            {
+              "localityname": {
+                "label": "City"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "label": "Norway",
       "iso": "NO",
       "fields": [
@@ -7107,6 +7192,36 @@
       ]
     },
     {
+      "label": "Sudan",
+      "iso": "SD",
+      "fields": [
+        {
+          "thoroughfare": {
+            "label": "Address 1"
+          }
+        },
+        {
+          "premise": {
+            "label": "Address 2"
+          }
+        },
+        {
+          "locality": [
+            {
+              "postalcode": {
+                "label": "Postal code"
+              }
+            },
+            {
+              "localityname": {
+                "label": "City"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "label": "Suriname",
       "iso": "SR",
       "fields": [
@@ -7229,6 +7344,36 @@
     {
       "label": "Switzerland",
       "iso": "CH",
+      "fields": [
+        {
+          "thoroughfare": {
+            "label": "Address 1"
+          }
+        },
+        {
+          "premise": {
+            "label": "Address 2"
+          }
+        },
+        {
+          "locality": [
+            {
+              "postalcode": {
+                "label": "Postal code"
+              }
+            },
+            {
+              "localityname": {
+                "label": "City"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Syria",
+      "iso": "SY",
       "fields": [
         {
           "thoroughfare": {
