@@ -69,7 +69,7 @@ any number of additional properties specific to the field itself.
 ```json
 {
   "label": "State",
-  "options: [],
+  "options": [],
   "format": "^[a-zA-Z]{2}$"
 }
 ```
