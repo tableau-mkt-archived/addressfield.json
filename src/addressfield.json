@@ -2448,7 +2448,8 @@
           "locality": [
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^\\d{2}[ ]?\\d{3}$"
               }
             },
             {
