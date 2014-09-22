@@ -434,7 +434,7 @@
             {
               "postalcode": {
                 "label": "Postal code",
-                "format": "\\d{4}"
+                "format": "^\\d{4}$"
               }
             }
           ]
