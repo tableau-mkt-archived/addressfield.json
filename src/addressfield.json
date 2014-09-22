@@ -299,7 +299,8 @@
           "locality": [
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?$"
               }
             },
             {
