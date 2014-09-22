@@ -1025,7 +1025,8 @@
             },
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^\\d{5}[\\-]?\\d{3}$"
               }
             }
           ]
