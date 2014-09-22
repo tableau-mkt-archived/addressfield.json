@@ -8168,7 +8168,8 @@
             },
             {
               "postalcode": {
-                "label": "ZIP code"
+                "label": "ZIP code",
+                "format": "^\\d{5}(?:[-\\s]\\d{4})?$"
               }
             }
           ]
