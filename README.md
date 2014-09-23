@@ -66,11 +66,21 @@ any number of additional properties specific to the field itself.
   select list, rather than a text field.
 - __format__: (Optional) A string representing a regex pattern against which
   user input can be matched / validated.
+- __eg__: (Optional) A string representing an example value for the given field.
+  This can be useful in enhancing user-experience when filling out the form. It
+  is recommended to use this value as placeholder text, or used in some way when
+  displaying messaging related to input validation.
 ```json
 {
   "label": "State",
   "options": [],
-  "format": "^[a-zA-Z]{2}$"
+}
+```
+```json
+{
+  "label": "Zip code",
+  "format": "^\\d{5}(?:[-\\s]\\d{4})?$",
+  "eg": "98103"
 }
 ```
 
@@ -115,7 +125,9 @@ label to be shown to the end-user.
       }
     }, {
       "postalcode": {
-        "label": "Postal code"
+        "label": "Postal code",
+        "format": "^[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z][ ]?\\d[ABCEGHJ-NPRSTV-Z]\\d$",
+        "eg": "K1A 0B1"
       }
     }]
   }]
@@ -136,6 +148,10 @@ for Canada in the order specified above:
       shortcodes to their full names; the form should pass shortcodes on submit,
       but display the full names to the end-user.
   - Finally, the xNAL `postalcode` field as a text input labeled "Postal code"
+    - The postal code field can optionally be validated against the provided
+      regular expression pattern contained within the "format" property.
+    - The postal code field can also optionally hint at the expected format,
+      using the provided example value on the "eg" property.
 
 For a sample implementation, in JavaScript, see
 [jquery.addressfield](https://github.com/tableau-mkt/jquery.addressfield).
