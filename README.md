@@ -12,6 +12,39 @@ encodes:
 Why? Because every country writes their address differently, and there's no
 reason to reinvent the wheel every time your software asks for those details.
 
+## Installation
+
+#### Packaged releases from GitHub
+You can always download and integrate [the latest packaged version](https://github.com/tableau-mkt/addressfield.json/releases/latest)
+with your project and manually track updates.
+
+#### Find an existing implementation
+You can also browse existing projects that are built on top of addressfield.json
+in your target language/framework:
+- [jquery.addressfield](https://tableau-mkt.github.io/jquery.addressfield) (for
+  JavaScript / jQuery 1.3.2+)
+
+#### Package / dependency management
+You can also use a package manager to declare addressfield.json as a dependency
+of your project.
+
+__Bower__
+```sh
+# Install the package and add it to bower.json dependencies
+bower install addressfield.json --save
+```
+
+#### Clone, install, build from source
+You're also welcome to install from source and build yourself:
+```sh
+# Clone the repository.
+git clone git@github.com:tableau-mkt/addressfield.json.git addressfield.json && cd addressfield.json
+# Install dev dependencies.
+npm install
+# Validate and build the JSON file.
+grunt
+```
+
 ## Configuration schema
 The JSON config file can be described in terms of four configuration objects,
 defined below.  The top / outer-most level represents the configuration for a
