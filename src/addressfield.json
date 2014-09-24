@@ -21,6 +21,13 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code",
+                "format": "^\\d{4}$",
+                "eg": "1001"
+              }
             }
           ]
         }
