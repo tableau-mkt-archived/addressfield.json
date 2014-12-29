@@ -4800,7 +4800,60 @@
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "State",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "Johor": "Johor"
+                  },
+                  {
+                    "Kedah": "Kedah"
+                  },
+                  {
+                    "Kelantan": "Kelantan"
+                  },
+                  {
+                    "Kuala Lumpur": "Kuala Lumpur"
+                  },
+                  {
+                    "Labuan": "Labuan"
+                  },
+                  {
+                    "Melaka": "Melaka"
+                  },
+                  {
+                    "Negeri Sembilan": "Negeri Sembilan"
+                  },
+                  {
+                    "Pahang": "Pahang"
+                  },
+                  {
+                    "Perak": "Perak"
+                  },
+                  {
+                    "Perlis": "Perlis"
+                  },
+                  {
+                    "Pulau Pinang": "Pulau Pinang"
+                  },
+                  {
+                    "Putrajaya": "Putrajaya"
+                  },
+                  {
+                    "Sabah": "Sabah"
+                  },
+                  {
+                    "Sarawak": "Sarawak"
+                  },
+                  {
+                    "Selangor": "Selangor"
+                  },
+                  {
+                    "Terengganu": "Terengganu"
+                  }
+                ]
               }
             }
           ]
