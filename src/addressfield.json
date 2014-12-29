@@ -7059,13 +7059,8 @@
               }
             },
             {
-              "administrativearea": {
-                "label": "State"
-              }
-            },
-            {
               "postalcode": {
-                "label": "Postal code"
+                "label": "ZIP code"
               }
             }
           ]
