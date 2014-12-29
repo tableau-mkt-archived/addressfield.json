@@ -3147,7 +3147,26 @@
           "locality": [
             {
               "localityname": {
-                "label": "City"
+                "label": "District"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Area",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "Kowloon": "Kowloon"
+                  },
+                  {
+                    "Hong Kong Island": "Hong Kong Island"
+                  },
+                  {
+                    "New Territories": "New Territories"
+                  }
+                ]
               }
             }
           ]
