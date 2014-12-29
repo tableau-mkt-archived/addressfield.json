@@ -5901,6 +5901,10 @@
               }
             },
             {
+              "administrativearea": {
+                "label": "Province"
+              }
+            },            {
               "postalcode": {
                 "label": "Postal code"
               }
