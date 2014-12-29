@@ -3833,7 +3833,7 @@
           "locality": [
             {
               "localityname": {
-                "label": "City"
+                "label": "Town/city"
               }
             },
             {
