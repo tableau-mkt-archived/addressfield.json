@@ -1457,6 +1457,11 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Island"
+              }
             }
           ]
         }
