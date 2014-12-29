@@ -1479,13 +1479,13 @@
         {
           "locality": [
             {
-              "localityname": {
-                "label": "City"
+              "postalcode": {
+                "label": "Postal code"
               }
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "Island"
               }
             }
           ]
