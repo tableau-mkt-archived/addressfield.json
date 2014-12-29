@@ -1649,10 +1649,8 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code",
-                "format": "^\\d{6}$",
-                "eg": "101200"
+              "dependent_localityname": {
+                "label": "District"
               }
             },
             {
@@ -1761,6 +1759,13 @@
                     "XJ": "Xinjiang Uyghur"
                   }
                 ]
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code",
+                "format": "^\\d{6}$",
+                "eg": "101200"
               }
             }
           ]
