@@ -7637,7 +7637,63 @@
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "State",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "Seoul": "Seoul"
+                  },
+                  {
+                    "Busan": "Busan"
+                  },
+                  {
+                    "Daegu": "Daegu"
+                  },
+                  {
+                    "Daejeon": "Daejeon"
+                  },
+                  {
+                    "Gwangju": "Gwangju"
+                  },
+                  {
+                    "Incheon": "Incheon"
+                  },
+                  {
+                    "Ulsan": "Ulsan"
+                  },
+                  {
+                    "Chungcheongbuk-do": "Chungcheongbuk-do"
+                  },
+                  {
+                    "Chungcheongnam-do": "Chungcheongnam-do"
+                  },
+                  {
+                    "Gangwon-do": "Gangwon-do"
+                  },
+                  {
+                    "Gyeonggi-do": "Gyeonggi-do"
+                  },
+                  {
+                    "Gyeongsangbuk-do": "Gyeongsangbuk-do"
+                  },
+                  {
+                    "Gyeongsangnam-do": "Gyeongsangnam-do"
+                  },
+                  {
+                    "Jeju-do": "Jeju-do"
+                  },
+                  {
+                    "Jeollabuk-do": "Jeollabuk-do"
+                  },
+                  {
+                    "Jeollanam-do": "Jeollanam-do"
+                  },
+                  {
+                    "Sejong": "Sejong"
+                  }
+                ]
               }
             }
           ]
