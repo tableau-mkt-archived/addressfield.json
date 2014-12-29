@@ -8191,8 +8191,8 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code"
+              "dependent_localityname": {
+                "label": "District"
               }
             },
             {
@@ -8202,7 +8202,7 @@
             },
             {
               "administrativearea": {
-                "label": "State",
+                "label": "Province",
                 "options": [
                   {
                     "": "--"
@@ -8259,6 +8259,11 @@
                     "Sejong": "Sejong"
                   }
                 ]
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code"
               }
             }
           ]
