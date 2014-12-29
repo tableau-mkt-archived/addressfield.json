@@ -9520,13 +9520,34 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code"
-              }
-            },
-            {
-              "localityname": {
-                "label": "City"
+              "administrativearea": {
+                "label": "Emirate",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "AZ": "Abu Dhabi"
+                  },
+                  {
+                    "FU": "Fujairah"
+                  },
+                  {
+                    "UQ": "Umm al-Quwain"
+                  },
+                  {
+                    "SH": "Sharjah"
+                  },
+                  {
+                    "DU": "Dubai"
+                  },
+                  {
+                    "RK": "Ras al-Khaimah"
+                  },
+                  {
+                    "AJ": "Ajmān"
+                  }
+                ]
               }
             }
           ]
