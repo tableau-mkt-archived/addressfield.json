@@ -480,7 +480,7 @@
           "locality": [
             {
               "localityname": {
-                "label": "City"
+                "label": "City/suburb"
               }
             },
             {
@@ -519,7 +519,7 @@
             },
             {
               "postalcode": {
-                "label": "Postal code",
+                "label": "Postcode",
                 "format": "^\\d{4}$",
                 "eg": "2000"
               }
