@@ -7179,18 +7179,13 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code"
-              }
-            },
-            {
               "localityname": {
                 "label": "City"
               }
             },
             {
               "administrativearea": {
-                "label": "State",
+                "label": "Province",
                 "options": [
                   {
                     "": "--"
@@ -7445,6 +7440,11 @@
                     "YAN": "Yamalo-Nenetskiy avtonomnyy okrug"
                   }
                 ]
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code"
               }
             }
           ]
