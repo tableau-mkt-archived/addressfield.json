@@ -6115,7 +6115,92 @@
           "locality": [
             {
               "localityname": {
-                "label": "City"
+                "label": "District"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "AMA": "Amazonas"
+                  },
+                  {
+                    "ANC": "Ancash"
+                  },
+                  {
+                    "APU": "Apurimac"
+                  },
+                  {
+                    "ARE": "Arequipa"
+                  },
+                  {
+                    "AYA": "Ayacucho"
+                  },
+                  {
+                    "CAJ": "Cajamarca"
+                  },
+                  {
+                    "CAL": "Callao"
+                  },
+                  {
+                    "CUS": "Cusco"
+                  },
+                  {
+                    "HUV": "Huancavelica"
+                  },
+                  {
+                    "HUC": "Huanuco"
+                  },
+                  {
+                    "ICA": "Ica"
+                  },
+                  {
+                    "JUN": "Junin"
+                  },
+                  {
+                    "LAL": "La Libertad"
+                  },
+                  {
+                    "LAM": "Lambayeque"
+                  },
+                  {
+                    "LIM": "Lima"
+                  },
+                  {
+                    "LOR": "Loreto"
+                  },
+                  {
+                    "MDD": "Madre de Dios"
+                  },
+                  {
+                    "MOQ": "Moquegua"
+                  },
+                  {
+                    "PAS": "Pasco"
+                  },
+                  {
+                    "PIU": "Piura"
+                  },
+                  {
+                    "PUN": "Puno"
+                  },
+                  {
+                    "SAM": "San Martin"
+                  },
+                  {
+                    "TAC": "Tacna"
+                  },
+                  {
+                    "TUM": "Tumbes"
+                  },
+                  {
+                    "UCA": "Ucayali"
+                  }
+                ]
               }
             },
             {
