@@ -2393,6 +2393,11 @@
                   }
                 ]
               }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code"
+              }
             }
           ]
         }
