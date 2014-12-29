@@ -3797,13 +3797,18 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code"
+              "localityname": {
+                "label": "City"
               }
             },
             {
-              "localityname": {
-                "label": "City"
+              "administrativearea": {
+                "label": "Province"
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code"
               }
             }
           ]
