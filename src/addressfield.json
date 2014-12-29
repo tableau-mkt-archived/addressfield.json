@@ -7456,7 +7456,78 @@
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "State",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "TXG": "Taichung City"
+                  },
+                  {
+                    "TPE": "Taipei City"
+                  },
+                  {
+                    "TTT": "Taitung County"
+                  },
+                  {
+                    "TNN": "Tainan City"
+                  },
+                  {
+                    "ILA": "Yilan County"
+                  },
+                  {
+                    "HUA": "Hualien County"
+                  },
+                  {
+                    "Kinmen County": "Kinmen County"
+                  },
+                  {
+                    "NAN": "Nantou County"
+                  },
+                  {
+                    "PIF": "Pingtung County"
+                  },
+                  {
+                    "MIA": "Miaoli County"
+                  },
+                  {
+                    "TAO": "Taoyuan County"
+                  },
+                  {
+                    "KHH": "Kaohsiung City"
+                  },
+                  {
+                    "KEE": "Keelung City"
+                  },
+                  {
+                    "Lienchiang County": "Lienchiang County"
+                  },
+                  {
+                    "YUN": "Yunlin County"
+                  },
+                  {
+                    "TPQ": "New Taipei City"
+                  },
+                  {
+                    "HSZ": "Hsinchu City"
+                  },
+                  {
+                    "HSQ": "Hsinchu County"
+                  },
+                  {
+                    "CYI": "Chiayi City"
+                  },
+                  {
+                    "CYQ": "Chiayi County"
+                  },
+                  {
+                    "CHA": "Changhua County"
+                  },
+                  {
+                    "PEN": "Penghu County"
+                  }
+                ]
               }
             }
           ]
