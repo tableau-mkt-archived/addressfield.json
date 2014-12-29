@@ -6929,8 +6929,8 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code"
+              "dependent_localityname": {
+                "label": "Suburb"
               }
             },
             {
@@ -6940,7 +6940,12 @@
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "Province"
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code"
               }
             }
           ]
