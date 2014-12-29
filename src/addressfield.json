@@ -9403,6 +9403,43 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Island",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "Funafuti": "Funafuti"
+                  },
+                  {
+                    "Funafuti Centre": "Funafuti Centre"
+                  },
+                  {
+                    "Nanumaga": "Nanumaga"
+                  },
+                  {
+                    "Nanumea": "Nanumea"
+                  },
+                  {
+                    "Niulakita": "Niulakita"
+                  },
+                  {
+                    "Niutao": "Niutao"
+                  },
+                  {
+                    "Nui": "Nui"
+                  },
+                  {
+                    "Nukulaelae": "Nukulaelae"
+                  },
+                  {
+                    "Vaitupu": "Vaitupu"
+                  }
+                ]
+              }
             }
           ]
         }
