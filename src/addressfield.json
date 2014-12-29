@@ -5335,13 +5335,13 @@
         {
           "locality": [
             {
-              "localityname": {
-                "label": "City"
+              "dependent_localityname": {
+                "label": "Village/township"
               }
             },
             {
-              "postalcode": {
-                "label": "Postal code"
+              "localityname": {
+                "label": "City"
               }
             },
             {
@@ -5400,6 +5400,11 @@
                     "Terengganu": "Terengganu"
                   }
                 ]
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code"
               }
             }
           ]
