@@ -5658,10 +5658,8 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code",
-                "format": "^\\d{5}$",
-                "eg": "03400"
+              "dependent_localityname": {
+                "label": "Neighborhood"
               }
             },
             {
@@ -5773,6 +5771,13 @@
                     "ZAC": "Zacatecas"
                   }
                 ]
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code",
+                "format": "^\\d{5}$",
+                "eg": "03400"
               }
             }
           ]
