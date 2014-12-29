@@ -432,6 +432,11 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Province"
+              }
             }
           ]
         }
