@@ -5120,7 +5120,108 @@
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "State",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "AGU": "Aguascalientes"
+                  },
+                  {
+                    "BCN": "Baja California"
+                  },
+                  {
+                    "BCS": "Baja California Sur"
+                  },
+                  {
+                    "CAM": "Campeche"
+                  },
+                  {
+                    "COA": "Coahuila"
+                  },
+                  {
+                    "COL": "Colima"
+                  },
+                  {
+                    "CHP": "Chiapas"
+                  },
+                  {
+                    "CHH": "Chihuahua"
+                  },
+                  {
+                    "DIF": "Distrito Federal"
+                  },
+                  {
+                    "DUG": "Durango"
+                  },
+                  {
+                    "MEX": "Estado de México"
+                  },
+                  {
+                    "GUA": "Guanajuato"
+                  },
+                  {
+                    "GRO": "Guerrero"
+                  },
+                  {
+                    "HID": "Hidalgo"
+                  },
+                  {
+                    "JAL": "Jalisco"
+                  },
+                  {
+                    "MIC": "Michoacán"
+                  },
+                  {
+                    "MOR": "Morelos"
+                  },
+                  {
+                    "NAY": "Nayarit"
+                  },
+                  {
+                    "NLE": "Nuevo León"
+                  },
+                  {
+                    "OAX": "Oaxaca"
+                  },
+                  {
+                    "PUE": "Puebla"
+                  },
+                  {
+                    "QUE": "Queretaro"
+                  },
+                  {
+                    "ROO": "Quintana Roo"
+                  },
+                  {
+                    "SLP": "San Luis Potosí"
+                  },
+                  {
+                    "SIN": "Sinaloa"
+                  },
+                  {
+                    "SON": "Sonora"
+                  },
+                  {
+                    "TAB": "Tabasco"
+                  },
+                  {
+                    "TAM": "Tamaulipas"
+                  },
+                  {
+                    "TLA": "Tlaxcala"
+                  },
+                  {
+                    "VER": "Veracruz"
+                  },
+                  {
+                    "YUC": "Yucatán"
+                  },
+                  {
+                    "ZAC": "Zacatecas"
+                  }
+                ]
               }
             }
           ]
