@@ -6660,7 +6660,7 @@
             },
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "ZIP code"
               }
             }
           ]
