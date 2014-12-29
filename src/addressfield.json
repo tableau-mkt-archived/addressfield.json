@@ -3757,13 +3757,23 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code"
+              "dependent_localityname": {
+                "label": "Neighborhood"
               }
             },
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Province"
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code"
               }
             }
           ]
