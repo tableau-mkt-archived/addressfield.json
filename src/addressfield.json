@@ -6814,8 +6814,8 @@
         {
           "locality": [
             {
-              "localityname": {
-                "label": "District"
+              "postalcode": {
+                "label": "Postal code"
               }
             },
             {
@@ -6904,8 +6904,8 @@
               }
             },
             {
-              "postalcode": {
-                "label": "Postal code"
+              "localityname": {
+                "label": "District"
               }
             }
           ]
