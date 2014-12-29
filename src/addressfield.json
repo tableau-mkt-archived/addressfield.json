@@ -999,7 +999,7 @@
       "fields": [
         {
           "thoroughfare": {
-            "label": "thoroughfare"
+            "label": "Thoroughfare"
           }
         },
         {
@@ -1008,12 +1008,12 @@
           }
         },
         {
-          "dependent_localityname": {
-            "label": "Neighborhood"
-          }
-        },
-        {
           "locality": [
+            {
+              "dependent_localityname": {
+                "label": "Neighborhood"
+              }
+            },
             {
               "localityname": {
                 "label": "City"
