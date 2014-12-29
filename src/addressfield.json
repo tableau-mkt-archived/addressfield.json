@@ -6096,13 +6096,8 @@
         {
           "locality": [
             {
-              "localityname": {
-                "label": "City"
-              }
-            },
-            {
               "administrativearea": {
-                "label": "State"
+                "label": "District"
               }
             }
           ]
