@@ -3592,7 +3592,7 @@
             },
             {
               "postalcode": {
-                "label": "Postal code",
+                "label": "PIN code",
                 "format": "^\\d{6}$",
                 "eg": "110005"
               }
