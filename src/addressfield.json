@@ -7731,11 +7731,6 @@
               "localityname": {
                 "label": "City"
               }
-            },
-            {
-              "administrativearea": {
-                "label": "State"
-              }
             }
           ]
         }
