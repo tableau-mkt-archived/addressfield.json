@@ -3619,12 +3619,17 @@
           "locality": [
             {
               "localityname": {
-                "label": "City/Regency"
+                "label": "City/regency"
+              }
+            },
+            {
+              "postalcode": {
+                "label": "Postal code"
               }
             },
             {
               "administrativearea": {
-                "label": "State",
+                "label": "Province",
                 "options": [
                   {
                     "": "--"
@@ -3729,11 +3734,6 @@
                     "SU": "Sumatera Utara"
                   }
                 ]
-              }
-            },
-            {
-              "postalcode": {
-                "label": "Postal code"
               }
             }
           ]
