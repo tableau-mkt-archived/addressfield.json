@@ -9904,13 +9904,13 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code"
+              "localityname": {
+                "label": "City"
               }
             },
             {
-              "localityname": {
-                "label": "City"
+              "postalcode": {
+                "label": "Postal code"
               }
             }
           ]
