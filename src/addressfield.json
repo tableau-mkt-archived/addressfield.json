@@ -2952,11 +2952,6 @@
               "postalcode": {
                 "label": "Postal code"
               }
-            },
-            {
-              "localityname": {
-                "label": "City"
-              }
             }
           ]
         }
