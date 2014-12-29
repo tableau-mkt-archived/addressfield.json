@@ -8390,7 +8390,87 @@
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "State",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "Z": "Amazonas"
+                  },
+                  {
+                    "B": "Anzoátegui"
+                  },
+                  {
+                    "C": "Apure"
+                  },
+                  {
+                    "D": "Aragua"
+                  },
+                  {
+                    "E": "Barinas"
+                  },
+                  {
+                    "F": "Bolívar"
+                  },
+                  {
+                    "G": "Carabobo"
+                  },
+                  {
+                    "H": "Cojedes"
+                  },
+                  {
+                    "Y": "Delta Amacuro"
+                  },
+                  {
+                    "W": "Dependencias Federales"
+                  },
+                  {
+                    "A": "Distrito Federal"
+                  },
+                  {
+                    "I": "Falcón"
+                  },
+                  {
+                    "J": "Guárico"
+                  },
+                  {
+                    "K": "Lara"
+                  },
+                  {
+                    "L": "Mérida"
+                  },
+                  {
+                    "M": "Miranda"
+                  },
+                  {
+                    "N": "Monagas"
+                  },
+                  {
+                    "O": "Nueva Esparta"
+                  },
+                  {
+                    "P": "Portuguesa"
+                  },
+                  {
+                    "R": "Sucre"
+                  },
+                  {
+                    "S": "Táchira"
+                  },
+                  {
+                    "T": "Trujillo"
+                  },
+                  {
+                    "X": "Vargas"
+                  },
+                  {
+                    "U": "Yaracuy"
+                  },
+                  {
+                    "V": "Zulia"
+                  }
+                ]
               }
             }
           ]
