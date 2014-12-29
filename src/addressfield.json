@@ -7572,18 +7572,13 @@
         {
           "locality": [
             {
-              "postalcode": {
-                "label": "Postal code"
-              }
-            },
-            {
               "localityname": {
                 "label": "City"
               }
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "Island"
               }
             }
           ]
