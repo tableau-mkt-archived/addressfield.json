@@ -8056,7 +8056,168 @@
             },
             {
               "administrativearea": {
-                "label": "Province"
+                "label": "Province",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "C": "A Coruña"
+                  },
+                  {
+                    "VI": "Alava"
+                  },
+                  {
+                    "AB": "Albacete"
+                  },
+                  {
+                    "A": "Alicante"
+                  },
+                  {
+                    "AL": "Almería"
+                  },
+                  {
+                    "O": "Asturias"
+                  },
+                  {
+                    "AV": "Ávila"
+                  },
+                  {
+                    "BA": "Badajoz"
+                  },
+                  {
+                    "PM": "Baleares"
+                  },
+                  {
+                    "B": "Barcelona"
+                  },
+                  {
+                    "BU": "Burgos"
+                  },
+                  {
+                    "CC": "Cáceres"
+                  },
+                  {
+                    "CA": "Cádiz"
+                  },
+                  {
+                    "S": "Cantabria"
+                  },
+                  {
+                    "CS": "Castellón"
+                  },
+                  {
+                    "CE": "Ceuta"
+                  },
+                  {
+                    "CR": "Ciudad Real"
+                  },
+                  {
+                    "CO": "Córdoba"
+                  },
+                  {
+                    "CU": "Cuenca"
+                  },
+                  {
+                    "GI": "Gerona"
+                  },
+                  {
+                    "GR": "Granada"
+                  },
+                  {
+                    "GU": "Guadalajara"
+                  },
+                  {
+                    "SS": "Guipúzcoa"
+                  },
+                  {
+                    "H": "Huelva"
+                  },
+                  {
+                    "HU": "Huesca"
+                  },
+                  {
+                    "J": "Jaén"
+                  },
+                  {
+                    "LO": "La Rioja"
+                  },
+                  {
+                    "GC": "Las Palmas"
+                  },
+                  {
+                    "LE": "León"
+                  },
+                  {
+                    "L": "Lérida"
+                  },
+                  {
+                    "LU": "Lugo"
+                  },
+                  {
+                    "M": "Madrid"
+                  },
+                  {
+                    "MA": "Málaga"
+                  },
+                  {
+                    "ML": "Melilla"
+                  },
+                  {
+                    "MU": "Murcia"
+                  },
+                  {
+                    "NA": "Navarra"
+                  },
+                  {
+                    "OR": "Ourense"
+                  },
+                  {
+                    "P": "Palencia"
+                  },
+                  {
+                    "PO": "Pontevedra"
+                  },
+                  {
+                    "SA": "Salamanca"
+                  },
+                  {
+                    "TF": "Santa Cruz de Tenerife"
+                  },
+                  {
+                    "SG": "Segovia"
+                  },
+                  {
+                    "SE": "Sevilla"
+                  },
+                  {
+                    "SO": "Soria"
+                  },
+                  {
+                    "T": "Tarragona"
+                  },
+                  {
+                    "TE": "Teruel"
+                  },
+                  {
+                    "TO": "Toledo"
+                  },
+                  {
+                    "V": "Valencia"
+                  },
+                  {
+                    "VA": "Valladolid"
+                  },
+                  {
+                    "BI": "Vizcaya"
+                  },
+                  {
+                    "ZA": "Zamora"
+                  },
+                  {
+                    "Z": "Zaragoza"
+                  }
+                ]
               }
             }
           ]
