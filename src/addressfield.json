@@ -8862,13 +8862,18 @@
         {
           "locality": [
             {
+              "dependent_localityname": {
+                "label": "Suburb"
+              }
+            },
+            {
               "localityname": {
                 "label": "City"
               }
             },
             {
               "administrativearea": {
-                "label": "State"
+                "label": "Province"
               }
             },
             {
