@@ -5200,7 +5200,9 @@
           "locality": [
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^(948[5-9])|(949[0-7])$",
+                "eg": "9496"
               }
             },
             {
