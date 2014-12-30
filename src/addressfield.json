@@ -7635,7 +7635,9 @@
           "locality": [
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^(ASCN|STHL)[ ]?1ZZ$",
+                "eg": "STHL 1ZZ"
               }
             },
             {
