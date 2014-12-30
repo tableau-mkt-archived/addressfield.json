@@ -3052,7 +3052,9 @@
           "locality": [
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^39\\d{2}$",
+                "eg": "3911"
               }
             },
             {
