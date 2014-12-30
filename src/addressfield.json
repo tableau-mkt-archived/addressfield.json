@@ -6313,7 +6313,9 @@
           "locality": [
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^988\\d{2}$",
+                "eg": "98814"
               }
             },
             {
