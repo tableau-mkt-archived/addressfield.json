@@ -3109,7 +3109,9 @@
           "locality": [
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^9[78][01]\\d{2}$",
+                "eg": "97100"
               }
             },
             {
