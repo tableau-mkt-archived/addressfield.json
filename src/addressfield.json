@@ -770,7 +770,9 @@
           "locality": [
             {
               "postalcode": {
-                "label": "Postal code"
+                "label": "Postal code",
+                "format": "^\\d{4}$",
+                "eg": "4000"
               }
             },
             {
