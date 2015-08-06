@@ -1682,97 +1682,97 @@
                     "": "--"
                   },
                   {
-                    "BJ": "Beijing"
+                    "11": "Beijing"
                   },
                   {
-                    "SH": "Shanghai"
+                    "31": "Shanghai"
                   },
                   {
-                    "GD": "Guangdong"
+                    "44": "Guangdong"
                   },
                   {
-                    "TJ": "Tianjin"
+                    "12": "Tianjin"
                   },
                   {
-                    "HE": "Hebei"
+                    "13": "Hebei"
                   },
                   {
-                    "SX": "Shanxi"
+                    "14": "Shanxi"
                   },
                   {
-                    "NM": "Inner Mongolia"
+                    "15": "Inner Mongolia"
                   },
                   {
-                    "LN": "Liaoning"
+                    "21": "Liaoning"
                   },
                   {
-                    "JL": "Jilin"
+                    "22": "Jilin"
                   },
                   {
-                    "HL": "Heilongjiang"
+                    "23": "Heilongjiang"
                   },
                   {
-                    "JS": "Jiangsu"
+                    "32": "Jiangsu"
                   },
                   {
-                    "ZJ": "Zhejiang"
+                    "33": "Zhejiang"
                   },
                   {
-                    "AH": "Anhui"
+                    "34": "Anhui"
                   },
                   {
-                    "FJ": "Fujian"
+                    "35": "Fujian"
                   },
                   {
-                    "JX": "Jiangxi"
+                    "36": "Jiangxi"
                   },
                   {
-                    "SD": "Shandong"
+                    "37": "Shandong"
                   },
                   {
-                    "HA": "Henan"
+                    "41": "Henan"
                   },
                   {
-                    "HB": "Hubei"
+                    "42": "Hubei"
                   },
                   {
-                    "HN": "Hunan"
+                    "43": "Hunan"
                   },
                   {
-                    "GX": "Guangxi"
+                    "45": "Guangxi"
                   },
                   {
-                    "HI": "Hainan"
+                    "46": "Hainan"
                   },
                   {
-                    "CQ": "Chongqing"
+                    "50": "Chongqing"
                   },
                   {
-                    "SC": "Sichuan"
+                    "51": "Sichuan"
                   },
                   {
-                    "GZ": "Guizhou"
+                    "52": "Guizhou"
                   },
                   {
-                    "YN": "Yunnan"
+                    "53": "Yunnan"
                   },
                   {
-                    "XZ": "Tibet"
+                    "54": "Tibet"
                   },
                   {
-                    "SN": "Shaanxi"
+                    "61": "Shaanxi"
                   },
                   {
-                    "GS": "Gansu"
+                    "62": "Gansu"
                   },
                   {
-                    "QH": "Qinghai"
+                    "63": "Qinghai"
                   },
                   {
-                    "NX": "Ningxia Hui"
+                    "64": "Ningxia Hui"
                   },
                   {
-                    "XJ": "Xinjiang Uyghur"
+                    "65": "Xinjiang Uyghur"
                   }
                 ]
               }
