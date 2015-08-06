@@ -8037,11 +8037,6 @@
         {
           "locality": [
             {
-              "localityname": {
-                "label": "City"
-              }
-            },
-            {
               "postalcode": {
                 "label": "Postal code",
                 "format": "^\\d{6}$",
