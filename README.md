@@ -1,4 +1,4 @@
-# addressfield.json [![Build Status](https://travis-ci.org/tableau-mkt/addressfield.json.svg?branch=master)](https://travis-ci.org/tableau-mkt/addressfield.json)
+# addressfield.json [![Build Status](https://travis-ci.org/tableau-mkt/addressfield.json.svg?branch=1.1)](https://travis-ci.org/tableau-mkt/addressfield.json)
 
 This is a JSON configuration representing the way an address form should be
 rendered on a country-by-country basis, conforming roughly to xNAL standards. It
