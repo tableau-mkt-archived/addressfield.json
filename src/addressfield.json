@@ -3175,6 +3175,82 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "A": "Alsace"
+                  },
+                  {
+                    "B": "Aquitaine"
+                  },
+                  {
+                    "C": "Auvergne"
+                  },
+                  {
+                    "P": "Basse-Normandie"
+                  },
+                  {
+                    "D": "Bourgogne"
+                  },
+                  {
+                    "E": "Bretagne"
+                  },
+                  {
+                    "F": "Centre"
+                  },
+                  {
+                    "G": "Champagne-Ardenne"
+                  },
+                  {
+                    "H": "Corse"
+                  },
+                  {
+                    "I": "Franche-Comté"
+                  },
+                  {
+                    "Q": "Haute-Normandie"
+                  },
+                  {
+                    "J": "Île-de-France"
+                  },
+                  {
+                    "K": "Languedoc-Roussillon"
+                  },
+                  {
+                    "L": "Limousin"
+                  },
+                  {
+                    "M": "Lorraine"
+                  },
+                  {
+                    "N": "Midi-Pyrénées"
+                  },
+                  {
+                    "O": "Nord-Pas-de-Calais"
+                  },
+                  {
+                    "R": "Pays de la Loire"
+                  },
+                  {
+                    "S": "Picardie"
+                  },
+                  {
+                    "T": "Poitou-Charentes"
+                  },
+                  {
+                    "U": "Provence-Alpes-Côte d'Azur"
+                  },
+                  {
+                    "V": "Rhône-Alpes"
+                  }
+                ]
+              }
             }
           ]
         }
