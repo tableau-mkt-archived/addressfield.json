@@ -7957,6 +7957,65 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Province",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "DS": "Dolnośląskie"
+                  },
+                  {
+                    "KP": "Kujawsko-pomorskie"
+                  },
+                  {
+                    "LU": "Lubelskie"
+                  },
+                  {
+                    "LB": "Lubuskie"
+                  },
+                  {
+                    "LD": "Łódzkie"
+                  },
+                  {
+                    "MA": "Małopolskie"
+                  },
+                  {
+                    "MZ": "Mazowieckie"
+                  },
+                  {
+                    "OP": "Opolskie"
+                  },
+                  {
+                    "PK": "Podkarpackie"
+                  },
+                  {
+                    "PD": "Podlaskie"
+                  },
+                  {
+                    "PM": "Pomorskie"
+                  },
+                  {
+                    "SL": "Śląskie"
+                  },
+                  {
+                    "SK": "Świętokrzyskie"
+                  },
+                  {
+                    "WN": "Warmińsko-mazurskie"
+                  },
+                  {
+                    "WP": "Wielkopolskie"
+                  },
+                  {
+                    "ZP": "Zachodniopomorskie"
+                  }
+
+                ]
+              }
             }
           ]
         }
