@@ -5929,6 +5929,46 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "AL": "Alytaus Apskritis"
+                  },
+                  {
+                    "KU": "Kauno Apskritis"
+                  },
+                  {
+                    "KL": "Klaipėdos Apskritis"
+                  },
+                  {
+                    "MR": "Marijampolės Apskritis"
+                  },
+                  {
+                    "PN": "Panevėžio Apskritis"
+                  },
+                  {
+                    "SA": "Šiaulių Apskritis"
+                  },
+                  {
+                    "TA": "Tauragės Apskritis"
+                  },
+                  {
+                    "TE": "Telšių Apskritis"
+                  },
+                  {
+                    "UT": "Utenos Apskritis"
+                  },
+                  {
+                    "VL": "Vilniaus Apskritis"
+                  }
+                ]
+              }
             }
           ]
         }
