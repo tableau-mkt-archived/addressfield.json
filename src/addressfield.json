@@ -9930,6 +9930,79 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "K": "Blekinge län"
+                  },
+                  {
+                    "W": "Dalarnas län"
+                  },
+                  {
+                    "I": "Gotlands län"
+                  },
+                  {
+                    "X": "Gävleborgs län"
+                  },
+                  {
+                    "N": "Hallands län"
+                  },
+                  {
+                    "Z": "Jämtlands län"
+                  },
+                  {
+                    "F": "Jönköpings län"
+                  },
+                  {
+                    "H": "Kalmar län"
+                  },
+                  {
+                    "G": "Kronobergs län"
+                  },
+                  {
+                    "BD": "Norrbottens län"
+                  },
+                  {
+                    "M": "Skåne län"
+                  },
+                  {
+                    "AB": "Stockholms län"
+                  },
+                  {
+                    "D": "Södermanlands län"
+                  },
+                  {
+                    "C": "Uppsala län"
+                  },
+                  {
+                    "S": "Värmlands län"
+                  },
+                  {
+                    "AC": "Västerbottens län"
+                  },
+                  {
+                    "Y": "Västernorrlands län"
+                  },
+                  {
+                    "U": "Västmanlands län"
+                  },
+                  {
+                    "O": "Västra Götalands län"
+                  },
+                  {
+                    "T": "Örebro län"
+                  },
+                  {
+                    "E": "Östergötlands län"
+                  }
+                ]
+              }
             }
           ]
         }
