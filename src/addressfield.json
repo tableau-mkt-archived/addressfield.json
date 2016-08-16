@@ -2409,6 +2409,58 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "JC": "Jihočeský kraj"
+                  },
+                  {
+                    "JM": "Jihomoravský kraj"
+                  },
+                  {
+                    "KA": "Karlovarský kraj"
+                  },
+                  {
+                    "KR": "Královéhradecký kraj"
+                  },
+                  {
+                    "LI": "Liberecký kraj"
+                  },
+                  {
+                    "MO": "Moravskoslezský kraj"
+                  },
+                  {
+                    "OL": "Olomoucký kraj"
+                  },
+                  {
+                    "PA": "Pardubický kraj"
+                  },
+                  {
+                    "PL": "Plzeňský kraj"
+                  },
+                  {
+                    "PR": "Praha, hlavní město"
+                  },
+                  {
+                    "ST": "Středočeský kraj"
+                  },
+                  {
+                    "US": "Ústecký kraj"
+                  },
+                  {
+                    "VY": "Vysočina"
+                  },
+                  {
+                    "ZL": "Zlínský kraj"
+                  }
+                ]
+              }
             }
           ]
         }
