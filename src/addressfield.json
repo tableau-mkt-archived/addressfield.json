@@ -2249,6 +2249,76 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "07": "Bjelovarsko-bilogorska županija"
+                  },
+                  {
+                    "12": "Brodsko-posavska županija"
+                  },
+                  {
+                    "19": "Dubrovačko-neretvanska županija"
+                  },
+                  {
+                    "18": "Istarska županija"
+                  },
+                  {
+                    "04": "Karlovačka županija"
+                  },
+                  {
+                    "06": "Koprivničko-križevačka županija"
+                  },
+                  {
+                    "02": "Krapinsko-zagorska županija"
+                  },
+                  {
+                    "09": "Ličko-senjska županija"
+                  },
+                  {
+                    "20": "Međimurska županija"
+                  },
+                  {
+                    "14": "Osječko-baranjska županija"
+                  },
+                  {
+                    "11": "Požeško-slavonska županija"
+                  },
+                  {
+                    "08": "Primorsko-goranska županija"
+                  },
+                  {
+                    "03": "Sisačko-moslavačka županija"
+                  },
+                  {
+                    "17": "Splitsko-dalmatinska županija"
+                  },
+                  {
+                    "15": "Šibensko-kninska županija"
+                  },
+                  {
+                    "05": "Varaždinska županija"
+                  },
+                  {
+                    "10": "Virovitičko-podravska županija"
+                  },
+                  {
+                    "16": "Vukovarsko-srijemska županija"
+                  },
+                  {
+                    "13": "Zadarska županija"
+                  },
+                  {
+                    "01": "Zagrebačka županija"
+                  }
+                ]
+              }
             }
           ]
         }
