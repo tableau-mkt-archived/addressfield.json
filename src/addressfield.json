@@ -7448,6 +7448,73 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "02": "Akershus"
+                  },
+                  {
+                    "09": "Aust-Agder"
+                  },
+                  {
+                    "06": "Buskerud"
+                  },
+                  {
+                    "20": "Finnmark"
+                  },
+                  {
+                    "04": "Hedmark"
+                  },
+                  {
+                    "12": "Hordaland"
+                  },
+                  {
+                    "15": "Møre og Romsdal"
+                  },
+                  {
+                    "18": "Nordland"
+                  },
+                  {
+                    "17": "Nord-Trøndelag"
+                  },
+                  {
+                    "05": "Oppland"
+                  },
+                  {
+                    "03": "Oslo"
+                  },
+                  {
+                    "11": "Rogaland"
+                  },
+                  {
+                    "14": "Sogn og Fjordane"
+                  },
+                  {
+                    "16": "Sør-Trøndelag"
+                  },
+                  {
+                    "08": "Telemark"
+                  },
+                  {
+                    "19": "Troms"
+                  },
+                  {
+                    "10": "Vest-Agder"
+                  },
+                  {
+                    "07": "Vestfold"
+                  },
+                  {
+                    "01": "Østfold"
+                  }
+                ]
+              }
             }
           ]
         }
