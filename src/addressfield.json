@@ -11007,7 +11007,7 @@
             },
             {
               "administrativearea": {
-                "label": "County",
+                "label": "County/Region",
                 "options": [
                   {
                     "": "--"
@@ -11092,6 +11092,312 @@
                   },
                   {
                     "WOR": "Worcestershire"
+                  },
+                  {
+                    "LND": "London, City of"
+                  },
+                  {
+                    "BNS": "Barnsley"
+                  },
+                  {
+                    "BIR": "Birmingham"
+                  },
+                  {
+                    "BOL": "Bolton"
+                  },
+                  {
+                    "BRD": "Bradford"
+                  },
+                  {
+                    "BUR": "Bury"
+                  },
+                  {
+                    "CLD": "Calderdale"
+                  },
+                  {
+                    "COV": "Coventry"
+                  },
+                  {
+                    "DNC": "Doncaster"
+                  },
+                  {
+                    "DUD": "Dudley"
+                  },
+                  {
+                    "GAT": "Gateshead"
+                  },
+                  {
+                    "KIR": "Kirklees"
+                  },
+                  {
+                    "KWL": "Knowsley"
+                  },
+                  {
+                    "LDS": "Leeds"
+                  },
+                  {
+                    "LIV": "Liverpool"
+                  },
+                  {
+                    "MAN": "Manchester"
+                  },
+                  {
+                    "NET": "Newcastle upon Tyne"
+                  },
+                  {
+                    "NTY": "North Tyneside"
+                  },
+                  {
+                    "OLD": "Oldham"
+                  },
+                  {
+                    "RCH": "Rochdale"
+                  },
+                  {
+                    "ROT": "Rotherham"
+                  },
+                  {
+                    "SHN": "St. Helens"
+                  },
+                  {
+                    "SLF": "Salford"
+                  },
+                  {
+                    "SAW": "Sandwell"
+                  },
+                  {
+                    "SFT": "Sefton"
+                  },
+                  {
+                    "SHF": "Sheffield"
+                  },
+                  {
+                    "SOL": "Solihull"
+                  },
+                  {
+                    "STY": "South Tyneside"
+                  },
+                  {
+                    "SKP": "Stockport"
+                  },
+                  {
+                    "SND": "Sunderland"
+                  },
+                  {
+                    "TAM": "Tameside"
+                  },
+                  {
+                    "TRF": "Trafford"
+                  },
+                  {
+                    "WKF": "Wakefield"
+                  },
+                  {
+                    "WLL": "Walsall"
+                  },
+                  {
+                    "WGN": "Wigan"
+                  },
+                  {
+                    "WRL": "Wirral"
+                  },
+                  {
+                    "WLV": "Wolverhampton"
+                  },
+                  {
+                    "ANN": "Antrim and Newtownabbey"
+                  },
+                  {
+                    "AND": "Ards and North Down"
+                  },
+                  {
+                    "ABC": "Armagh, Banbridge and Craigavon"
+                  },
+                  {
+                    "BFS": "Belfast"
+                  },
+                  {
+                    "CCG": "Causeway Coast and Glens"
+                  },
+                  {
+                    "DRS": "Derry and Strabane"
+                  },
+                  {
+                    "FMO": "Fermanagh and Omagh"
+                  },
+                  {
+                    "LBC": "Lisburn and Castlereagh"
+                  },
+                  {
+                    "MEA": "Mid and East Antrim"
+                  },
+                  {
+                    "MUL": "Mid Ulster"
+                  },
+                  {
+                    "NMD": "Newry, Mourne and Down"
+                  },
+                  {
+                    "ABE": "Aberdeen City"
+                  },
+                  {
+                    "ABD": "Aberdeenshire"
+                  },
+                  {
+                    "ANS": "Angus"
+                  },
+                  {
+                    "AGB": "Argyll and Bute"
+                  },
+                  {
+                    "CLK": "Clackmannanshire"
+                  },
+                  {
+                    "DGY": "Dumfries and Galloway"
+                  },
+                  {
+                    "DND": "Dundee City"
+                  },
+                  {
+                    "EAY": "East Ayrshire"
+                  },
+                  {
+                    "EDU": "East Dunbartonshire"
+                  },
+                  {
+                    "ELN": "East Lothian"
+                  },
+                  {
+                    "ERW": "East Renfrewshire"
+                  },
+                  {
+                    "EDH": "Edinburgh, City of"
+                  },
+                  {
+                    "ELS": "Eilean Siar"
+                  },
+                  {
+                    "FAL": "Falkirk"
+                  },
+                  {
+                    "FIF": "Fife"
+                  },
+                  {
+                    "GLG": "Glasgow City"
+                  },
+                  {
+                    "HLD": "Highland"
+                  },
+                  {
+                    "IVC": "Inverclyde"
+                  },
+                  {
+                    "MLN": "Midlothian"
+                  },
+                  {
+                    "MRY": "Moray"
+                  },
+                  {
+                    "NAY": "North Ayrshire"
+                  },
+                  {
+                    "NLK": "North Lanarkshire"
+                  },
+                  {
+                    "ORK": "Orkney Islands"
+                  },
+                  {
+                    "PKN": "Perth and Kinross"
+                  },
+                  {
+                    "RFW": "Renfrewshire"
+                  },
+                  {
+                    "SCB": "Scottish Borders, The"
+                  },
+                  {
+                    "ZET": "Shetland Islands"
+                  },
+                  {
+                    "SAY": "South Ayrshire"
+                  },
+                  {
+                    "SLK": "South Lanarkshire"
+                  },
+                  {
+                    "STG": "Stirling"
+                  },
+                  {
+                    "WDU": "West Dunbartonshire"
+                  },
+                  {
+                    "WLN": "West Lothian"
+                  },
+                  {
+                    "BGW": "Blaenau Gwent"
+                  },
+                  {
+                    "BGE": "Bridgend"
+                  },
+                  {
+                    "CAY": "Caerphilly"
+                  },
+                  {
+                    "CRF": "Cardiff"
+                  },
+                  {
+                    "CMN": "Carmarthenshire"
+                  },
+                  {
+                    "CGN": "Ceredigion"
+                  },
+                  {
+                    "CWY": "Conwy"
+                  },
+                  {
+                    "DEN": "Denbighshire"
+                  },
+                  {
+                    "FLN": "Flintshire"
+                  },
+                  {
+                    "GWN": "Gwynedd"
+                  },
+                  {
+                    "AGY": "Isle of Anglesey"
+                  },
+                  {
+                    "MTY": "Merthyr Tydfil"
+                  },
+                  {
+                    "MON": "Monmouthshire"
+                  },
+                  {
+                    "NTL": "Neath Port Talbot"
+                  },
+                  {
+                    "NWP": "Newport"
+                  },
+                  {
+                    "PEM": "Pembrokeshire"
+                  },
+                  {
+                    "POW": "Powys"
+                  },
+                  {
+                    "RCT": "Rhondda, Cynon, Taff"
+                  },
+                  {
+                    "SWA": "Swansea"
+                  },
+                  {
+                    "TOF": "Torfaen"
+                  },
+                  {
+                    "VGL": "Vale of Glamorgan, The"
+                  },
+                  {
+                    "WRX": "Wrexham"
                   }
                 ]
               }
