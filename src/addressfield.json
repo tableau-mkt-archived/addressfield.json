@@ -11007,7 +11007,7 @@
             },
             {
               "administrativearea": {
-                "label": "Region",
+                "label": "County",
                 "options": [
                   {
                     "": "--"
