@@ -2869,6 +2869,61 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "37": "Harjumaa"
+                  },
+                  {
+                    "39": "Hiiumaa"
+                  },
+                  {
+                    "44": "Ida-Virumaa"
+                  },
+                  {
+                    "49": "Jõgevamaa"
+                  },
+                  {
+                    "51": "Järvamaa"
+                  },
+                  {
+                    "57": "Läänemaa"
+                  },
+                  {
+                    "59": "Lääne-Virumaa"
+                  },
+                  {
+                    "65": "Põlvamaa"
+                  },
+                  {
+                    "67": "Pärnumaa"
+                  },
+                  {
+                    "70": "Raplamaa"
+                  },
+                  {
+                    "74": "Saaremaa"
+                  },
+                  {
+                    "78": "Tartumaa"
+                  },
+                  {
+                    "82": "Valgamaa"
+                  },
+                  {
+                    "84": "Viljandimaa"
+                  },
+                  {
+                    "86": "Võrumaa"
+                  }
+                ]
+              }
             }
           ]
         }
