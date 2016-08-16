@@ -3605,6 +3605,55 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "A": "Anatolikí Makedonía kai Thráki"
+                  },
+                  {
+                    "I": "Attikí"
+                  },
+                  {
+                    "G": "Dytikí Elláda"
+                  },
+                  {
+                    "C": "Dytikí Makedonía"
+                  },
+                  {
+                    "F": "Ionía Nísia"
+                  },
+                  {
+                    "D": "Ípeiros"
+                  },
+                  {
+                    "B": "Kentrikí Makedonía"
+                  },
+                  {
+                    "M": "Krítí"
+                  },
+                  {
+                    "L": "Notío Aigaío"
+                  },
+                  {
+                    "J": "Peloponnísos"
+                  },
+                  {
+                    "H": "Stereá Elláda"
+                  },
+                  {
+                    "E": "Thessalía"
+                  },
+                  {
+                    "K": "Voreío Aigaío"
+                  }
+                ]
+              }
             }
           ]
         }
