@@ -9275,6 +9275,28 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Province",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "W": "Western Area"
+                  },
+                  {
+                    "E": "Eastern"
+                  },
+                  {
+                    "N": "Northern"
+                  },
+                  {
+                    "S": "Southern"
+                  }
+                ]
+              }
             }
           ]
         }
