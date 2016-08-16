@@ -2493,6 +2493,31 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "84": "Hovedstaden"
+                  },
+                  {
+                    "82": "Midtjylland"
+                  },
+                  {
+                    "81": "Nordjylland"
+                  },
+                  {
+                    "85": "Sjælland"
+                  },
+                  {
+                    "83": "Syddanmark"
+                  }
+                ]
+              }
             }
           ]
         }
