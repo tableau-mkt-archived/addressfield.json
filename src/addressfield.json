@@ -12014,7 +12014,7 @@
             },
             {
               "administrativearea": {
-                "label": "County/Region",
+                "label": "County/Region/Authority",
                 "options": [
                   {
                     "": "--"
@@ -12102,6 +12102,102 @@
                   },
                   {
                     "LND": "London, City of"
+                  },
+                  {
+                    "BDG": "Barking and Dagenham"
+                  },
+                  {
+                    "BNE": "Barnet"
+                  },
+                  {
+                    "BEX": "Bexley"
+                  },
+                  {
+                    "BEN": "Brent"
+                  },
+                  {
+                    "BRY": "Bromley"
+                  },
+                  {
+                    "CMD": "Camden"
+                  },
+                  {
+                    "CRY": "Croydon"
+                  },
+                  {
+                    "EAL": "Ealing"
+                  },
+                  {
+                    "ENF": "Enfield"
+                  },
+                  {
+                    "GRE": "Greenwich"
+                  },
+                  {
+                    "HCK": "Hackney"
+                  },
+                  {
+                    "HMF": "Hammersmith and Fulham"
+                  },
+                  {
+                    "HRY": "Haringey"
+                  },
+                  {
+                    "HRW": "Harrow"
+                  },
+                  {
+                    "HAV": "Havering"
+                  },
+                  {
+                    "HIL": "Hillingdon"
+                  },
+                  {
+                    "HNS": "Hounslow"
+                  },
+                  {
+                    "ISL": "Islington"
+                  },
+                  {
+                    "KEC": "Kensington and Chelsea"
+                  },
+                  {
+                    "KTT": "Kingston upon Thames"
+                  },
+                  {
+                    "LBH": "Lambeth"
+                  },
+                  {
+                    "LEW": "Lewisham"
+                  },
+                  {
+                    "MRT": "Merton"
+                  },
+                  {
+                    "NWM": "Newham"
+                  },
+                  {
+                    "RDB": "Redbridge"
+                  },
+                  {
+                    "RIC": "Richmond upon Thames"
+                  },
+                  {
+                    "SWK": "Southwark"
+                  },
+                  {
+                    "STN": "Sutton"
+                  },
+                  {
+                    "TWH": "Tower Hamlets"
+                  },
+                  {
+                    "WFT": "Waltham Forest"
+                  },
+                  {
+                    "WND": "Wandsworth"
+                  },
+                  {
+                    "WSM": "Westminster"
                   },
                   {
                     "BNS": "Barnsley"
@@ -12210,6 +12306,174 @@
                   },
                   {
                     "WLV": "Wolverhampton"
+                  },
+                  {
+                    "BAS": "Bath and North East Somerset"
+                  },
+                  {
+                    "BDF": "Bedford"
+                  },
+                  {
+                    "BBD": "Blackburn with Darwen"
+                  },
+                  {
+                    "BPL": "Blackpool"
+                  },
+                  {
+                    "BMH": "Bournemouth"
+                  },
+                  {
+                    "BRC": "Bracknell Forest"
+                  },
+                  {
+                    "BNH": "Brighton and Hove"
+                  },
+                  {
+                    "BST": "Bristol, City of"
+                  },
+                  {
+                    "CBF": "Central Bedfordshire"
+                  },
+                  {
+                    "CHE": "Cheshire East"
+                  },
+                  {
+                    "CHW": "Cheshire West and Chester"
+                  },
+                  {
+                    "CON": "Cornwall"
+                  },
+                  {
+                    "DAL": "Darlington"
+                  },
+                  {
+                    "DER": "Derby"
+                  },
+                  {
+                    "DUR": "Durham, County"
+                  },
+                  {
+                    "ERY": "East Riding of Yorkshire"
+                  },
+                  {
+                    "HAL": "Halton"
+                  },
+                  {
+                    "HPL": "Hartlepool"
+                  },
+                  {
+                    "HEF": "Herefordshire"
+                  },
+                  {
+                    "IOW": "Isle of Wight"
+                  },
+                  {
+                    "IOS": "Isles of Scilly"
+                  },
+                  {
+                    "KHL": "Kingston upon Hull"
+                  },
+                  {
+                    "LCE": "Leicester"
+                  },
+                  {
+                    "LUT": "Luton"
+                  },
+                  {
+                    "MDW": "Medway"
+                  },
+                  {
+                    "MDB": "Middlesbrough"
+                  },
+                  {
+                    "MIK": "Milton Keynes"
+                  },
+                  {
+                    "NEL": "North East Lincolnshire"
+                  },
+                  {
+                    "NLN": "North Lincolnshire"
+                  },
+                  {
+                    "NSM": "North Somerset"
+                  },
+                  {
+                    "NBL": "Northumberland"
+                  },
+                  {
+                    "NGM": "Nottingham"
+                  },
+                  {
+                    "PTE": "Peterborough"
+                  },
+                  {
+                    "PLY": "Plymouth"
+                  },
+                  {
+                    "POL": "Poole"
+                  },
+                  {
+                    "POR": "Portsmouth"
+                  },
+                  {
+                    "RDG": "Reading"
+                  },
+                  {
+                    "RCC": "Redcar and Cleveland"
+                  },
+                  {
+                    "RUT": "Rutland"
+                  },
+                  {
+                    "SHR": "Shropshire"
+                  },
+                  {
+                    "SLG": "Slough"
+                  },
+                  {
+                    "SGC": "South Gloucestershire"
+                  },
+                  {
+                    "STH": "Southampton"
+                  },
+                  {
+                    "SOS": "Southend-on-Sea"
+                  },
+                  {
+                    "STT": "Stockton-on-Tees"
+                  },
+                  {
+                    "STE": "Stoke-on-Trent"
+                  },
+                  {
+                    "SWD": "Swindon"
+                  },
+                  {
+                    "TFW": "Telford and Wrekin"
+                  },
+                  {
+                    "THR": "Thurrock"
+                  },
+                  {
+                    "TOB": "Torbay"
+                  },
+                  {
+                    "WRT": "Warrington"
+                  },
+                  {
+                    "WBK": "West Berkshire"
+                  },
+                  {
+                    "WIL": "Wiltshire"
+                  },
+                  {
+                    "WNM": "Windsor and Maidenhead"
+                  },
+                  {
+                    "WOK": "Wokingham"
+                  },
+                  {
+                    "YOR": "York"
                   },
                   {
                     "ANN": "Antrim and Newtownabbey"
