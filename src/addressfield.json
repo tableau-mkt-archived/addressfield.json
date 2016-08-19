@@ -4235,6 +4235,172 @@
                   }
                 ]
               }
+            },
+            {
+              "subadministrativearea": {
+                "label": "Department",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "13": "Achaḯa"
+                  },
+                  {
+                    "01": "Aitoloakarnanía"
+                  },
+                  {
+                    "11": "Argolída"
+                  },
+                  {
+                    "12": "Arkadía"
+                  },
+                  {
+                    "31": "Árta"
+                  },
+                  {
+                    "A1": "Attikí"
+                  },
+                  {
+                    "64": "Chalkidikí"
+                  },
+                  {
+                    "94": "Chaniá"
+                  },
+                  {
+                    "85": "Chíos"
+                  },
+                  {
+                    "81": "Dodekánisa"
+                  },
+                  {
+                    "52": "Dráma"
+                  },
+                  {
+                    "71": "Évros"
+                  },
+                  {
+                    "05": "Evrytanía"
+                  },
+                  {
+                    "04": "Évvoia"
+                  },
+                  {
+                    "63": "Flórina"
+                  },
+                  {
+                    "07": "Fokída"
+                  },
+                  {
+                    "06": "Fthiótida"
+                  },
+                  {
+                    "51": "Grevená"
+                  },
+                  {
+                    "14": "Ileía"
+                  },
+                  {
+                    "53": "Imathía"
+                  },
+                  {
+                    "33": "Ioánnina"
+                  },
+                  {
+                    "91": "Irakleío"
+                  },
+                  {
+                    "41": "Kardítsa"
+                  },
+                  {
+                    "56": "Kastoriá"
+                  },
+                  {
+                    "55": "Kavála"
+                  },
+                  {
+                    "23": "Kefallinía"
+                  },
+                  {
+                    "22": "Kérkyra"
+                  },
+                  {
+                    "57": "Kilkís"
+                  },
+                  {
+                    "15": "Korinthía"
+                  },
+                  {
+                    "58": "Kozáni"
+                  },
+                  {
+                    "82": "Kykládes"
+                  },
+                  {
+                    "16": "Lakonía"
+                  },
+                  {
+                    "42": "Lárisa"
+                  },
+                  {
+                    "92": "Lasíthi"
+                  },
+                  {
+                    "24": "Lefkáda"
+                  },
+                  {
+                    "83": "Lésvos"
+                  },
+                  {
+                    "43": "Magnisía"
+                  },
+                  {
+                    "17": "Messinía"
+                  },
+                  {
+                    "59": "Pélla"
+                  },
+                  {
+                    "61": "Piería"
+                  },
+                  {
+                    "34": "Préveza"
+                  },
+                  {
+                    "93": "Rethýmnis"
+                  },
+                  {
+                    "73": "Rodópi"
+                  },
+                  {
+                    "84": "Sámos"
+                  },
+                  {
+                    "62": "Sérres"
+                  },
+                  {
+                    "32": "Thesprotía"
+                  },
+                  {
+                    "54": "Thessaloníki"
+                  },
+                  {
+                    "44": "Tríkala"
+                  },
+                  {
+                    "03": "Voiotía"
+                  },
+                  {
+                    "72": "Xánthi"
+                  },
+                  {
+                    "21": "Zákynthos"
+                  },
+                  {
+                    "69": "Ágion Óros"
+                  }
+                ]
+              }
             }
           ]
         }
