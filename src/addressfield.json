@@ -567,6 +567,43 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "State",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "1": "Burgenland"
+                  },
+                  {
+                    "2": "Carinthia"
+                  },
+                  {
+                    "3": "Lower Austria"
+                  },
+                  {
+                    "4": "Upper Austria"
+                  },
+                  {
+                    "5": "Salzburg"
+                  },
+                  {
+                    "6": "Styria"
+                  },
+                  {
+                    "7": "Tyrol"
+                  },
+                  {
+                    "8": "Vorarlberg"
+                  },
+                  {
+                    "9": "Vienna"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -778,6 +815,49 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Province",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "BRU": "Brussels Hoofdstedelijk Gewest/Région de Bruxelles-Capitale"
+                  },
+                  {
+                    "VAN": "Antwerpen"
+                  },
+                  {
+                    "WBR": "Brabant wallon"
+                  },
+                  {
+                    "WHT": "Hainaut"
+                  },
+                  {
+                    "WLG": "Liège"
+                  },
+                  {
+                    "VLI": "Limburg"
+                  },
+                  {
+                    "WLX": "Luxembourg"
+                  },
+                  {
+                    "WNA": "Namur"
+                  },
+                  {
+                    "VOV": "Oost-Vlaanderen"
+                  },
+                  {
+                    "VBR": "Vlaams-Brabant"
+                  },
+                  {
+                    "VWV": "West-Vlaanderen"
+                  }
+                ]
               }
             }
           ]
@@ -1251,6 +1331,100 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Province",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "01": "Blagoevgrad"
+                  },
+                  {
+                    "02": "Burgas"
+                  },
+                  {
+                    "03": "Varna"
+                  },
+                  {
+                    "04": "Veliko Tarnovo"
+                  },
+                  {
+                    "05": "Vidin"
+                  },
+                  {
+                    "06": "Vratsa"
+                  },
+                  {
+                    "07": "Gabrovo"
+                  },
+                  {
+                    "08": "Dobrich"
+                  },
+                  {
+                    "09": "Kardzhali"
+                  },
+                  {
+                    "10": "Kyustendil"
+                  },
+                  {
+                    "11": "Lovech"
+                  },
+                  {
+                    "12": "Montana"
+                  },
+                  {
+                    "13": "Pazardzhik"
+                  },
+                  {
+                    "14": "Pernik"
+                  },
+                  {
+                    "15": "Pleven"
+                  },
+                  {
+                    "16": "Plovdiv"
+                  },
+                  {
+                    "17": "Razgrad"
+                  },
+                  {
+                    "18": "Ruse"
+                  },
+                  {
+                    "19": "Silistra"
+                  },
+                  {
+                    "20": "Sliven"
+                  },
+                  {
+                    "21": "Smolyan"
+                  },
+                  {
+                    "22": "Sofia (stolitsa)"
+                  },
+                  {
+                    "23": "Sofia"
+                  },
+                  {
+                    "24": "Stara Zagora"
+                  },
+                  {
+                    "25": "Targovishte"
+                  },
+                  {
+                    "26": "Haskovo"
+                  },
+                  {
+                    "27": "Shumen"
+                  },
+                  {
+                    "28": "Yambol"
+                  }
+                ]
               }
             }
           ]
@@ -2078,6 +2252,76 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "07": "Bjelovarsko-bilogorska županija"
+                  },
+                  {
+                    "12": "Brodsko-posavska županija"
+                  },
+                  {
+                    "19": "Dubrovačko-neretvanska županija"
+                  },
+                  {
+                    "18": "Istarska županija"
+                  },
+                  {
+                    "04": "Karlovačka županija"
+                  },
+                  {
+                    "06": "Koprivničko-križevačka županija"
+                  },
+                  {
+                    "02": "Krapinsko-zagorska županija"
+                  },
+                  {
+                    "09": "Ličko-senjska županija"
+                  },
+                  {
+                    "20": "Međimurska županija"
+                  },
+                  {
+                    "14": "Osječko-baranjska županija"
+                  },
+                  {
+                    "11": "Požeško-slavonska županija"
+                  },
+                  {
+                    "08": "Primorsko-goranska županija"
+                  },
+                  {
+                    "03": "Sisačko-moslavačka županija"
+                  },
+                  {
+                    "17": "Splitsko-dalmatinska županija"
+                  },
+                  {
+                    "15": "Šibensko-kninska županija"
+                  },
+                  {
+                    "05": "Varaždinska županija"
+                  },
+                  {
+                    "10": "Virovitičko-podravska županija"
+                  },
+                  {
+                    "16": "Vukovarsko-srijemska županija"
+                  },
+                  {
+                    "13": "Zadarska županija"
+                  },
+                  {
+                    "01": "Zagrebačka županija"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -2168,6 +2412,341 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "JC": "Jihočeský kraj"
+                  },
+                  {
+                    "JM": "Jihomoravský kraj"
+                  },
+                  {
+                    "KA": "Karlovarský kraj"
+                  },
+                  {
+                    "KR": "Královéhradecký kraj"
+                  },
+                  {
+                    "LI": "Liberecký kraj"
+                  },
+                  {
+                    "MO": "Moravskoslezský kraj"
+                  },
+                  {
+                    "OL": "Olomoucký kraj"
+                  },
+                  {
+                    "PA": "Pardubický kraj"
+                  },
+                  {
+                    "PL": "Plzeňský kraj"
+                  },
+                  {
+                    "PR": "Praha, hlavní město"
+                  },
+                  {
+                    "ST": "Středočeský kraj"
+                  },
+                  {
+                    "US": "Ústecký kraj"
+                  },
+                  {
+                    "VY": "Vysočina"
+                  },
+                  {
+                    "ZL": "Zlínský kraj"
+                  }
+                ]
+              }
+            },
+            {
+              "subadministrativearea": {
+                "label": "District",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "201": "Benešov"
+                  },
+                  {
+                    "202": "Beroun"
+                  },
+                  {
+                    "621": "Blansko"
+                  },
+                  {
+                    "622": "Brno-město"
+                  },
+                  {
+                    "623": "Brno-venkov"
+                  },
+                  {
+                    "801": "Bruntál"
+                  },
+                  {
+                    "624": "Břeclav"
+                  },
+                  {
+                    "511": "Česká Lípa"
+                  },
+                  {
+                    "311": "České Budějovice"
+                  },
+                  {
+                    "312": "Český Krumlov"
+                  },
+                  {
+                    "421": "Děčín"
+                  },
+                  {
+                    "321": "Domažlice"
+                  },
+                  {
+                    "802": "Frýdek-Místek"
+                  },
+                  {
+                    "611": "Havlíčkův Brod"
+                  },
+                  {
+                    "625": "Hodonín"
+                  },
+                  {
+                    "521": "Hradec Králové"
+                  },
+                  {
+                    "411": "Cheb"
+                  },
+                  {
+                    "422": "Chomutov"
+                  },
+                  {
+                    "531": "Chrudim"
+                  },
+                  {
+                    "512": "Jablonec nad Nisou"
+                  },
+                  {
+                    "711": "Jeseník"
+                  },
+                  {
+                    "522": "Jičín"
+                  },
+                  {
+                    "612": "Jihlava"
+                  },
+                  {
+                    "313": "Jindřichův Hradec"
+                  },
+                  {
+                    "412": "Karlovy Vary"
+                  },
+                  {
+                    "803": "Karviná"
+                  },
+                  {
+                    "203": "Kladno"
+                  },
+                  {
+                    "322": "Klatovy"
+                  },
+                  {
+                    "204": "Kolín"
+                  },
+                  {
+                    "721": "Kroměříž"
+                  },
+                  {
+                    "205": "Kutná Hora"
+                  },
+                  {
+                    "513": "Liberec"
+                  },
+                  {
+                    "423": "Litoměřice"
+                  },
+                  {
+                    "424": "Louny"
+                  },
+                  {
+                    "206": "Mělník"
+                  },
+                  {
+                    "207": "Mladá Boleslav"
+                  },
+                  {
+                    "425": "Most"
+                  },
+                  {
+                    "523": "Náchod"
+                  },
+                  {
+                    "804": "Nový Jičín"
+                  },
+                  {
+                    "208": "Nymburk"
+                  },
+                  {
+                    "712": "Olomouc"
+                  },
+                  {
+                    "805": "Opava"
+                  },
+                  {
+                    "806": "Ostrava-město"
+                  },
+                  {
+                    "532": "Pardubice"
+                  },
+                  {
+                    "613": "Pelhřimov"
+                  },
+                  {
+                    "314": "Písek"
+                  },
+                  {
+                    "324": "Plzeň-jih"
+                  },
+                  {
+                    "323": "Plzeň-město"
+                  },
+                  {
+                    "325": "Plzeň-sever"
+                  },
+                  {
+                    "101": "Praha 1"
+                  },
+                  {
+                    "102": "Praha 2"
+                  },
+                  {
+                    "103": "Praha 3"
+                  },
+                  {
+                    "104": "Praha 4"
+                  },
+                  {
+                    "105": "Praha 5"
+                  },
+                  {
+                    "106": "Praha 6"
+                  },
+                  {
+                    "107": "Praha 7"
+                  },
+                  {
+                    "108": "Praha 8"
+                  },
+                  {
+                    "109": "Praha 9"
+                  },
+                  {
+                    "10A": "Praha 10"
+                  },
+                  {
+                    "10B": "Praha 11"
+                  },
+                  {
+                    "10C": "Praha 12"
+                  },
+                  {
+                    "10D": "Praha 13"
+                  },
+                  {
+                    "10E": "Praha 14"
+                  },
+                  {
+                    "10F": "Praha 15"
+                  },
+                  {
+                    "209": "Praha-východ"
+                  },
+                  {
+                    "20A": "Praha-západ"
+                  },
+                  {
+                    "315": "Prachatice"
+                  },
+                  {
+                    "713": "Prostějov"
+                  },
+                  {
+                    "714": "Přerov"
+                  },
+                  {
+                    "20B": "Příbram"
+                  },
+                  {
+                    "20C": "Rakovník"
+                  },
+                  {
+                    "326": "Rokycany"
+                  },
+                  {
+                    "524": "Rychnov nad Kněžnou"
+                  },
+                  {
+                    "514": "Semily"
+                  },
+                  {
+                    "413": "Sokolov"
+                  },
+                  {
+                    "316": "Strakonice"
+                  },
+                  {
+                    "533": "Svitavy"
+                  },
+                  {
+                    "715": "Šumperk"
+                  },
+                  {
+                    "317": "Tábor"
+                  },
+                  {
+                    "327": "Tachov"
+                  },
+                  {
+                    "426": "Teplice"
+                  },
+                  {
+                    "525": "Trutnov"
+                  },
+                  {
+                    "614": "Třebíč"
+                  },
+                  {
+                    "722": "Uherské Hradiště"
+                  },
+                  {
+                    "427": "Ústí nad Labem"
+                  },
+                  {
+                    "534": "Ústí nad Orlicí"
+                  },
+                  {
+                    "723": "Vsetín"
+                  },
+                  {
+                    "626": "Vyškov"
+                  },
+                  {
+                    "724": "Zlín"
+                  },
+                  {
+                    "627": "Znojmo"
+                  },
+                  {
+                    "615": "Žďár nad Sázavou"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -2199,6 +2778,31 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "84": "Hovedstaden"
+                  },
+                  {
+                    "82": "Midtjylland"
+                  },
+                  {
+                    "81": "Nordjylland"
+                  },
+                  {
+                    "85": "Sjælland"
+                  },
+                  {
+                    "83": "Syddanmark"
+                  }
+                ]
               }
             }
           ]
@@ -2551,6 +3155,61 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "37": "Harjumaa"
+                  },
+                  {
+                    "39": "Hiiumaa"
+                  },
+                  {
+                    "44": "Ida-Virumaa"
+                  },
+                  {
+                    "49": "Jõgevamaa"
+                  },
+                  {
+                    "51": "Järvamaa"
+                  },
+                  {
+                    "57": "Läänemaa"
+                  },
+                  {
+                    "59": "Lääne-Virumaa"
+                  },
+                  {
+                    "65": "Põlvamaa"
+                  },
+                  {
+                    "67": "Pärnumaa"
+                  },
+                  {
+                    "70": "Raplamaa"
+                  },
+                  {
+                    "74": "Saaremaa"
+                  },
+                  {
+                    "78": "Tartumaa"
+                  },
+                  {
+                    "82": "Valgamaa"
+                  },
+                  {
+                    "84": "Viljandimaa"
+                  },
+                  {
+                    "86": "Võrumaa"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -2703,6 +3362,73 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "01": "Ahvenanmaan maakunta"
+                  },
+                  {
+                    "02": "Etelä-Karjala"
+                  },
+                  {
+                    "03": "Etelä-Pohjanmaa"
+                  },
+                  {
+                    "04": "Etelä-Savo"
+                  },
+                  {
+                    "05": "Kainuu"
+                  },
+                  {
+                    "06": "Kanta-Häme"
+                  },
+                  {
+                    "07": "Keski-Pohjanmaa"
+                  },
+                  {
+                    "08": "Keski-Suomi"
+                  },
+                  {
+                    "09": "Kymenlaakso"
+                  },
+                  {
+                    "10": "Lappi"
+                  },
+                  {
+                    "11": "Pirkanmaa"
+                  },
+                  {
+                    "12": "Pohjanmaa"
+                  },
+                  {
+                    "13": "Pohjois-Karjala"
+                  },
+                  {
+                    "14": "Pohjois-Pohjanmaa"
+                  },
+                  {
+                    "15": "Pohjois-Savo"
+                  },
+                  {
+                    "16": "Päijät-Häme"
+                  },
+                  {
+                    "17": "Satakunta"
+                  },
+                  {
+                    "18": "Uusimaa"
+                  },
+                  {
+                    "19": "Varsinais-Suomi"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -2734,6 +3460,380 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "A": "Alsace"
+                  },
+                  {
+                    "B": "Aquitaine"
+                  },
+                  {
+                    "C": "Auvergne"
+                  },
+                  {
+                    "P": "Basse-Normandie"
+                  },
+                  {
+                    "D": "Bourgogne"
+                  },
+                  {
+                    "E": "Bretagne"
+                  },
+                  {
+                    "F": "Centre"
+                  },
+                  {
+                    "G": "Champagne-Ardenne"
+                  },
+                  {
+                    "H": "Corse"
+                  },
+                  {
+                    "I": "Franche-Comté"
+                  },
+                  {
+                    "Q": "Haute-Normandie"
+                  },
+                  {
+                    "J": "Île-de-France"
+                  },
+                  {
+                    "K": "Languedoc-Roussillon"
+                  },
+                  {
+                    "L": "Limousin"
+                  },
+                  {
+                    "M": "Lorraine"
+                  },
+                  {
+                    "N": "Midi-Pyrénées"
+                  },
+                  {
+                    "O": "Nord-Pas-de-Calais"
+                  },
+                  {
+                    "R": "Pays de la Loire"
+                  },
+                  {
+                    "S": "Picardie"
+                  },
+                  {
+                    "T": "Poitou-Charentes"
+                  },
+                  {
+                    "U": "Provence-Alpes-Côte d'Azur"
+                  },
+                  {
+                    "V": "Rhône-Alpes"
+                  }
+                ]
+              }
+            },
+            {
+              "subadministrativearea": {
+                "label": "Metropolitan Department",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "01": "Ain"
+                  },
+                  {
+                    "02": "Aisne"
+                  },
+                  {
+                    "03": "Allier"
+                  },
+                  {
+                    "04": "Alpes-de-Haute-Provence"
+                  },
+                  {
+                    "06": "Alpes-Maritimes"
+                  },
+                  {
+                    "07": "Ardèche"
+                  },
+                  {
+                    "08": "Ardennes"
+                  },
+                  {
+                    "09": "Ariège"
+                  },
+                  {
+                    "10": "Aube"
+                  },
+                  {
+                    "11": "Aude"
+                  },
+                  {
+                    "12": "Aveyron"
+                  },
+                  {
+                    "67": "Bas-Rhin"
+                  },
+                  {
+                    "13": "Bouches-du-Rhône"
+                  },
+                  {
+                    "14": "Calvados"
+                  },
+                  {
+                    "15": "Cantal"
+                  },
+                  {
+                    "16": "Charente"
+                  },
+                  {
+                    "17": "Charente-Maritime"
+                  },
+                  {
+                    "18": "Cher"
+                  },
+                  {
+                    "19": "Corrèze"
+                  },
+                  {
+                    "2A": "Corse-du-Sud"
+                  },
+                  {
+                    "21": "Côte-d'Or"
+                  },
+                  {
+                    "22": "Côtes-d'Armor"
+                  },
+                  {
+                    "23": "Creuse"
+                  },
+                  {
+                    "79": "Deux-Sèvres"
+                  },
+                  {
+                    "24": "Dordogne"
+                  },
+                  {
+                    "25": "Doubs"
+                  },
+                  {
+                    "26": "Drôme"
+                  },
+                  {
+                    "91": "Essonne"
+                  },
+                  {
+                    "27": "Eure"
+                  },
+                  {
+                    "28": "Eure-et-Loir"
+                  },
+                  {
+                    "29": "Finistère"
+                  },
+                  {
+                    "30": "Gard"
+                  },
+                  {
+                    "32": "Gers"
+                  },
+                  {
+                    "33": "Gironde"
+                  },
+                  {
+                    "2B": "Haute-Corse"
+                  },
+                  {
+                    "31": "Haute-Garonne"
+                  },
+                  {
+                    "43": "Haute-Loire"
+                  },
+                  {
+                    "52": "Haute-Marne"
+                  },
+                  {
+                    "05": "Hautes-Alpes"
+                  },
+                  {
+                    "70": "Haute-Saône"
+                  },
+                  {
+                    "74": "Haute-Savoie"
+                  },
+                  {
+                    "65": "Hautes-Pyrénées"
+                  },
+                  {
+                    "87": "Haute-Vienne"
+                  },
+                  {
+                    "68": "Haut-Rhin"
+                  },
+                  {
+                    "92": "Hauts-de-Seine"
+                  },
+                  {
+                    "34": "Hérault"
+                  },
+                  {
+                    "35": "Ille-et-Vilaine"
+                  },
+                  {
+                    "36": "Indre"
+                  },
+                  {
+                    "37": "Indre-et-Loire"
+                  },
+                  {
+                    "38": "Isère"
+                  },
+                  {
+                    "39": "Jura"
+                  },
+                  {
+                    "40": "Landes"
+                  },
+                  {
+                    "42": "Loire"
+                  },
+                  {
+                    "44": "Loire-Atlantique"
+                  },
+                  {
+                    "45": "Loiret"
+                  },
+                  {
+                    "41": "Loir-et-Cher"
+                  },
+                  {
+                    "46": "Lot"
+                  },
+                  {
+                    "47": "Lot-et-Garonne"
+                  },
+                  {
+                    "48": "Lozère"
+                  },
+                  {
+                    "49": "Maine-et-Loire"
+                  },
+                  {
+                    "50": "Manche"
+                  },
+                  {
+                    "51": "Marne"
+                  },
+                  {
+                    "53": "Mayenne"
+                  },
+                  {
+                    "54": "Meurthe-et-Moselle"
+                  },
+                  {
+                    "55": "Meuse"
+                  },
+                  {
+                    "56": "Morbihan"
+                  },
+                  {
+                    "57": "Moselle"
+                  },
+                  {
+                    "58": "Nièvre"
+                  },
+                  {
+                    "59": "Nord"
+                  },
+                  {
+                    "60": "Oise"
+                  },
+                  {
+                    "61": "Orne"
+                  },
+                  {
+                    "75": "Paris"
+                  },
+                  {
+                    "62": "Pas-de-Calais"
+                  },
+                  {
+                    "63": "Puy-de-Dôme"
+                  },
+                  {
+                    "64": "Pyrénées-Atlantiques"
+                  },
+                  {
+                    "66": "Pyrénées-Orientales"
+                  },
+                  {
+                    "69": "Rhône[1]"
+                  },
+                  {
+                    "71": "Saône-et-Loire"
+                  },
+                  {
+                    "72": "Sarthe"
+                  },
+                  {
+                    "73": "Savoie"
+                  },
+                  {
+                    "77": "Seine-et-Marne"
+                  },
+                  {
+                    "76": "Seine-Maritime"
+                  },
+                  {
+                    "93": "Seine-Saint-Denis"
+                  },
+                  {
+                    "80": "Somme"
+                  },
+                  {
+                    "81": "Tarn"
+                  },
+                  {
+                    "82": "Tarn-et-Garonne"
+                  },
+                  {
+                    "90": "Territoire de Belfort"
+                  },
+                  {
+                    "94": "Val-de-Marne"
+                  },
+                  {
+                    "95": "Val-d'Oise"
+                  },
+                  {
+                    "83": "Var"
+                  },
+                  {
+                    "84": "Vaucluse"
+                  },
+                  {
+                    "85": "Vendée"
+                  },
+                  {
+                    "86": "Vienne"
+                  },
+                  {
+                    "88": "Vosges"
+                  },
+                  {
+                    "89": "Yonne"
+                  },
+                  {
+                    "78": "Yvelines"
+                  }
+                ]
               }
             }
           ]
@@ -2949,6 +4049,64 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "State",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "BW": "Baden-Württemberg"
+                  },
+                  {
+                    "BY": "Bayern"
+                  },
+                  {
+                    "BE": "Berlin"
+                  },
+                  {
+                    "BB": "Brandenburg"
+                  },
+                  {
+                    "HB": "Bremen"
+                  },
+                  {
+                    "HH": "Hamburg"
+                  },
+                  {
+                    "HE": "Hessen"
+                  },
+                  {
+                    "MV": "Mecklenburg-Vorpommern"
+                  },
+                  {
+                    "NI": "Niedersachsen"
+                  },
+                  {
+                    "NW": "Nordrhein-Westfalen"
+                  },
+                  {
+                    "RP": "Rheinland-Pfalz"
+                  },
+                  {
+                    "SL": "Saarland"
+                  },
+                  {
+                    "SN": "Sachsen"
+                  },
+                  {
+                    "ST": "Sachsen-Anhalt"
+                  },
+                  {
+                    "SH": "Schleswig-Holstein"
+                  },
+                  {
+                    "TH": "Thüringen"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -3030,6 +4188,221 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "A": "Anatolikí Makedonía kai Thráki"
+                  },
+                  {
+                    "I": "Attikí"
+                  },
+                  {
+                    "G": "Dytikí Elláda"
+                  },
+                  {
+                    "C": "Dytikí Makedonía"
+                  },
+                  {
+                    "F": "Ionía Nísia"
+                  },
+                  {
+                    "D": "Ípeiros"
+                  },
+                  {
+                    "B": "Kentrikí Makedonía"
+                  },
+                  {
+                    "M": "Krítí"
+                  },
+                  {
+                    "L": "Notío Aigaío"
+                  },
+                  {
+                    "J": "Peloponnísos"
+                  },
+                  {
+                    "H": "Stereá Elláda"
+                  },
+                  {
+                    "E": "Thessalía"
+                  },
+                  {
+                    "K": "Voreío Aigaío"
+                  }
+                ]
+              }
+            },
+            {
+              "subadministrativearea": {
+                "label": "Department",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "13": "Achaḯa"
+                  },
+                  {
+                    "01": "Aitoloakarnanía"
+                  },
+                  {
+                    "11": "Argolída"
+                  },
+                  {
+                    "12": "Arkadía"
+                  },
+                  {
+                    "31": "Árta"
+                  },
+                  {
+                    "A1": "Attikí"
+                  },
+                  {
+                    "64": "Chalkidikí"
+                  },
+                  {
+                    "94": "Chaniá"
+                  },
+                  {
+                    "85": "Chíos"
+                  },
+                  {
+                    "81": "Dodekánisa"
+                  },
+                  {
+                    "52": "Dráma"
+                  },
+                  {
+                    "71": "Évros"
+                  },
+                  {
+                    "05": "Evrytanía"
+                  },
+                  {
+                    "04": "Évvoia"
+                  },
+                  {
+                    "63": "Flórina"
+                  },
+                  {
+                    "07": "Fokída"
+                  },
+                  {
+                    "06": "Fthiótida"
+                  },
+                  {
+                    "51": "Grevená"
+                  },
+                  {
+                    "14": "Ileía"
+                  },
+                  {
+                    "53": "Imathía"
+                  },
+                  {
+                    "33": "Ioánnina"
+                  },
+                  {
+                    "91": "Irakleío"
+                  },
+                  {
+                    "41": "Kardítsa"
+                  },
+                  {
+                    "56": "Kastoriá"
+                  },
+                  {
+                    "55": "Kavála"
+                  },
+                  {
+                    "23": "Kefallinía"
+                  },
+                  {
+                    "22": "Kérkyra"
+                  },
+                  {
+                    "57": "Kilkís"
+                  },
+                  {
+                    "15": "Korinthía"
+                  },
+                  {
+                    "58": "Kozáni"
+                  },
+                  {
+                    "82": "Kykládes"
+                  },
+                  {
+                    "16": "Lakonía"
+                  },
+                  {
+                    "42": "Lárisa"
+                  },
+                  {
+                    "92": "Lasíthi"
+                  },
+                  {
+                    "24": "Lefkáda"
+                  },
+                  {
+                    "83": "Lésvos"
+                  },
+                  {
+                    "43": "Magnisía"
+                  },
+                  {
+                    "17": "Messinía"
+                  },
+                  {
+                    "59": "Pélla"
+                  },
+                  {
+                    "61": "Piería"
+                  },
+                  {
+                    "34": "Préveza"
+                  },
+                  {
+                    "93": "Rethýmnis"
+                  },
+                  {
+                    "73": "Rodópi"
+                  },
+                  {
+                    "84": "Sámos"
+                  },
+                  {
+                    "62": "Sérres"
+                  },
+                  {
+                    "32": "Thesprotía"
+                  },
+                  {
+                    "54": "Thessaloníki"
+                  },
+                  {
+                    "44": "Tríkala"
+                  },
+                  {
+                    "03": "Voiotía"
+                  },
+                  {
+                    "72": "Xánthi"
+                  },
+                  {
+                    "21": "Zákynthos"
+                  },
+                  {
+                    "69": "Ágion Óros"
+                  }
+                ]
               }
             }
           ]
@@ -3470,6 +4843,73 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "BK": "Bács-Kiskun"
+                  },
+                  {
+                    "BA": "Baranya"
+                  },
+                  {
+                    "BE": "Békés"
+                  },
+                  {
+                    "BZ": "Borsod-Abaúj-Zemplén"
+                  },
+                  {
+                    "CS": "Csongrád"
+                  },
+                  {
+                    "FE": "Fejér"
+                  },
+                  {
+                    "GS": "Győr-Moson-Sopron"
+                  },
+                  {
+                    "HB": "Hajdú-Bihar"
+                  },
+                  {
+                    "HE": "Heves"
+                  },
+                  {
+                    "JN": "Jász-Nagykun-Szolnok"
+                  },
+                  {
+                    "KE": "Komárom-Esztergom"
+                  },
+                  {
+                    "NO": "Nógrád"
+                  },
+                  {
+                    "PE": "Pest"
+                  },
+                  {
+                    "SO": "Somogy"
+                  },
+                  {
+                    "SZ": "Szabolcs-Szatmár-Bereg"
+                  },
+                  {
+                    "TO": "Tolna"
+                  },
+                  {
+                    "VA": "Vas"
+                  },
+                  {
+                    "VE": "Veszprém"
+                  },
+                  {
+                    "ZA": "Zala"
+                  }
+                ]
               }
             }
           ]
@@ -4148,6 +5588,76 @@
             },
             {
               "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "65": "Abruzzo"
+                  },
+                  {
+                    "77": "Basilicata"
+                  },
+                  {
+                    "78": "Calabria"
+                  },
+                  {
+                    "72": "Campania"
+                  },
+                  {
+                    "45": "Emilia-Romagna"
+                  },
+                  {
+                    "36": "Friuli-Venezia Giulia"
+                  },
+                  {
+                    "62": "Lazio"
+                  },
+                  {
+                    "42": "Liguria"
+                  },
+                  {
+                    "25": "Lombardia"
+                  },
+                  {
+                    "57": "Marche"
+                  },
+                  {
+                    "67": "Molise"
+                  },
+                  {
+                    "21": "Piemonte"
+                  },
+                  {
+                    "75": "Puglia"
+                  },
+                  {
+                    "88": "Sardegna"
+                  },
+                  {
+                    "82": "Sicilia"
+                  },
+                  {
+                    "52": "Toscana"
+                  },
+                  {
+                    "32": "Trentino-Alto Adige, Trentino-Südtirol (de)"
+                  },
+                  {
+                    "55": "Umbria"
+                  },
+                  {
+                    "23": "Valle d'Aosta, Vallée d'Aoste (fr)"
+                  },
+                  {
+                    "34": "Veneto"
+                  }
+                ]
+              }
+            },
+            {
+              "subadministrativearea": {
                 "label": "Province",
                 "options": [
                   {
@@ -5239,6 +6749,236 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "AL": "Alytaus Apskritis"
+                  },
+                  {
+                    "KU": "Kauno Apskritis"
+                  },
+                  {
+                    "KL": "Klaipėdos Apskritis"
+                  },
+                  {
+                    "MR": "Marijampolės Apskritis"
+                  },
+                  {
+                    "PN": "Panevėžio Apskritis"
+                  },
+                  {
+                    "SA": "Šiaulių Apskritis"
+                  },
+                  {
+                    "TA": "Tauragės Apskritis"
+                  },
+                  {
+                    "TE": "Telšių Apskritis"
+                  },
+                  {
+                    "UT": "Utenos Apskritis"
+                  },
+                  {
+                    "VL": "Vilniaus Apskritis"
+                  }
+                ]
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Municipality",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+              		  "01": "Akmenė"
+              		},
+              		{
+              		  "02": "Alytaus miestas"
+              		},
+              		{
+              		  "03": "Alytus"
+              		},
+              		{
+              		  "04": "Anykščiai"
+              		},
+              		{
+              		  "05": "Birštono"
+              		},
+              		{
+              		  "06": "Biržai"
+              		},
+              		{
+              		  "07": "Druskininkai"
+              		},
+              		{
+              		  "08": "Elektrénai"
+              		},
+              		{
+              		  "09": "Ignalina"
+              		},
+              		{
+              		  "10": "Jonava"
+              		},
+              		{
+              		  "11": "Joniškis"
+              		},
+              		{
+              		  "12": "Jurbarkas"
+              		},
+              		{
+              		  "13": "Kaišiadorys"
+              		},
+              		{
+              		  "14": "Kalvarijos"
+              		},
+              		{
+              		  "16": "Kaunas"
+              		},
+              		{
+              		  "15": "Kauno miestas"
+              		},
+              		{
+              		  "17": "Kazlų Rūdos"
+              		},
+              		{
+              		  "18": "Kėdainiai"
+              		},
+              		{
+              		  "19": "Kelmė"
+              		},
+              		{
+              		  "21": "Klaipėda"
+              		},
+              		{
+              		  "20": "Klaipėdos miestas"
+              		},
+              		{
+              		  "22": "Kretinga"
+              		},
+              		{
+              		  "23": "Kupiškis"
+              		},
+              		{
+              		  "24": "Lazdijai"
+              		},
+              		{
+              		  "25": "Marijampolė"
+              		},
+              		{
+              		  "26": "Mažeikiai"
+              		},
+              		{
+              		  "27": "Molėtai"
+              		},
+              		{
+              		  "28": "Neringa"
+              		},
+              		{
+              		  "29": "Pagégiai"
+              		},
+              		{
+              		  "30": "Pakruojis"
+              		},
+              		{
+              		  "31": "Palangos miestas"
+              		},
+              		{
+              		  "32": "Panevėžio miestas"
+              		},
+              		{
+              		  "33": "Panevėžys"
+              		},
+              		{
+              		  "34": "Pasvalys"
+              		},
+              		{
+              		  "35": "Plungė"
+              		},
+              		{
+              		  "36": "Prienai"
+              		},
+              		{
+              		  "37": "Radviliškis"
+              		},
+              		{
+              		  "38": "Raseiniai"
+              		},
+              		{
+              		  "39": "Rietavo"
+              		},
+              		{
+              		  "40": "Rokiškis"
+              		},
+              		{
+              		  "41": "Šakiai"
+              		},
+              		{
+              		  "42": "Šalčininkai"
+              		},
+              		{
+              		  "44": "Šiauliai"
+              		},
+              		{
+              		  "43": "Šiaulių miestas"
+              		},
+              		{
+              		  "45": "Šilalė"
+              		},
+              		{
+              		  "46": "Šilutė"
+              		},
+              		{
+              		  "47": "Širvintos"
+              		},
+              		{
+              		  "48": "Skuodas"
+              		},
+              		{
+              		  "49": "Švenčionys"
+              		},
+              		{
+              		  "50": "Tauragė"
+              		},
+              		{
+              		  "51": "Telšiai"
+              		},
+              		{
+              		  "52": "Trakai"
+              		},
+              		{
+              		  "53": "Ukmergė"
+              		},
+              		{
+              		  "54": "Utena"
+              		},
+              		{
+              		  "55": "Varėna"
+              		},
+              		{
+              		  "56": "Vilkaviškis"
+              		},
+              		{
+              		  "57": "Vilniaus miestas"
+              		},
+              		{
+              		  "58": "Vilnius"
+              		},
+              		{
+              		  "59": "Visaginas"
+              		},
+              		{
+              		  "60": "Zarasai"
+              		}
+                ]
+              }
             }
           ]
         }
@@ -6262,6 +8002,52 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Province",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "DR": "Drenthe"
+                  },
+                  {
+                    "FL": "Flevoland"
+                  },
+                  {
+                    "FR": "Fryslân (fy)"
+                  },
+                  {
+                    "GE": "Gelderland"
+                  },
+                  {
+                    "GR": "Groningen"
+                  },
+                  {
+                    "LI": "Limburg"
+                  },
+                  {
+                    "NB": "Noord-Brabant"
+                  },
+                  {
+                    "NH": "Noord-Holland"
+                  },
+                  {
+                    "OV": "Overijssel"
+                  },
+                  {
+                    "UT": "Utrecht"
+                  },
+                  {
+                    "ZE": "Zeeland"
+                  },
+                  {
+                    "ZH": "Zuid-Holland"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -6671,6 +8457,73 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "02": "Akershus"
+                  },
+                  {
+                    "09": "Aust-Agder"
+                  },
+                  {
+                    "06": "Buskerud"
+                  },
+                  {
+                    "20": "Finnmark"
+                  },
+                  {
+                    "04": "Hedmark"
+                  },
+                  {
+                    "12": "Hordaland"
+                  },
+                  {
+                    "15": "Møre og Romsdal"
+                  },
+                  {
+                    "18": "Nordland"
+                  },
+                  {
+                    "17": "Nord-Trøndelag"
+                  },
+                  {
+                    "05": "Oppland"
+                  },
+                  {
+                    "03": "Oslo"
+                  },
+                  {
+                    "11": "Rogaland"
+                  },
+                  {
+                    "14": "Sogn og Fjordane"
+                  },
+                  {
+                    "16": "Sør-Trøndelag"
+                  },
+                  {
+                    "08": "Telemark"
+                  },
+                  {
+                    "19": "Troms"
+                  },
+                  {
+                    "10": "Vest-Agder"
+                  },
+                  {
+                    "07": "Vestfold"
+                  },
+                  {
+                    "01": "Østfold"
+                  }
+                ]
               }
             }
           ]
@@ -7114,6 +8967,65 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Province",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "DS": "Dolnośląskie"
+                  },
+                  {
+                    "KP": "Kujawsko-pomorskie"
+                  },
+                  {
+                    "LU": "Lubelskie"
+                  },
+                  {
+                    "LB": "Lubuskie"
+                  },
+                  {
+                    "LD": "Łódzkie"
+                  },
+                  {
+                    "MA": "Małopolskie"
+                  },
+                  {
+                    "MZ": "Mazowieckie"
+                  },
+                  {
+                    "OP": "Opolskie"
+                  },
+                  {
+                    "PK": "Podkarpackie"
+                  },
+                  {
+                    "PD": "Podlaskie"
+                  },
+                  {
+                    "PM": "Pomorskie"
+                  },
+                  {
+                    "SL": "Śląskie"
+                  },
+                  {
+                    "SK": "Świętokrzyskie"
+                  },
+                  {
+                    "WN": "Warmińsko-mazurskie"
+                  },
+                  {
+                    "WP": "Wielkopolskie"
+                  },
+                  {
+                    "ZP": "Zachodniopomorskie"
+                  }
+
+                ]
+              }
             }
           ]
         }
@@ -7145,6 +9057,70 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "District",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "01": "Aveiro"
+                  },
+                  {
+                    "02": "Beja"
+                  },
+                  {
+                    "03": "Braga"
+                  },
+                  {
+                    "04": "Bragança"
+                  },
+                  {
+                    "05": "Castelo Branco"
+                  },
+                  {
+                    "06": "Coimbra"
+                  },
+                  {
+                    "07": "Évora"
+                  },
+                  {
+                    "08": "Faro"
+                  },
+                  {
+                    "09": "Guarda"
+                  },
+                  {
+                    "10": "Leiria"
+                  },
+                  {
+                    "11": "Lisboa"
+                  },
+                  {
+                    "12": "Portalegre"
+                  },
+                  {
+                    "13": "Porto"
+                  },
+                  {
+                    "14": "Santarém"
+                  },
+                  {
+                    "15": "Setúbal"
+                  },
+                  {
+                    "16": "Viana do Castelo"
+                  },
+                  {
+                    "17": "Vila Real"
+                  },
+                  {
+                    "18": "Viseu"
+                  }
+                ]
               }
             }
           ]
@@ -7267,6 +9243,142 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "AB": "Alba"
+                  },
+                  {
+                    "AR": "Arad"
+                  },
+                  {
+                    "AG": "Argeș"
+                  },
+                  {
+                    "BC": "Bacău"
+                  },
+                  {
+                    "BH": "Bihor"
+                  },
+                  {
+                    "BN": "Bistrița-Năsăud"
+                  },
+                  {
+                    "BT": "Botoșani"
+                  },
+                  {
+                    "BV": "Brașov"
+                  },
+                  {
+                    "BR": "Brăila"
+                  },
+                  {
+                    "BZ": "Buzău"
+                  },
+                  {
+                    "CS": "Caraș-Severin"
+                  },
+                  {
+                    "CL": "Călărași"
+                  },
+                  {
+                    "CJ": "Cluj"
+                  },
+                  {
+                    "CT": "Constanța"
+                  },
+                  {
+                    "CV": "Covasna"
+                  },
+                  {
+                    "DB": "Dâmbovița"
+                  },
+                  {
+                    "DJ": "Dolj"
+                  },
+                  {
+                    "GL": "Galați"
+                  },
+                  {
+                    "GR": "Giurgiu"
+                  },
+                  {
+                    "GJ": "Gorj"
+                  },
+                  {
+                    "HR": "Harghita"
+                  },
+                  {
+                    "HD": "Hunedoara"
+                  },
+                  {
+                    "IL": "Ialomița"
+                  },
+                  {
+                    "IS": "Iași"
+                  },
+                  {
+                    "IF": "Ilfov"
+                  },
+                  {
+                    "MM": "Maramureș"
+                  },
+                  {
+                    "MH": "Mehedinți"
+                  },
+                  {
+                    "MS": "Mureș"
+                  },
+                  {
+                    "NT": "Neamț"
+                  },
+                  {
+                    "OT": "Olt"
+                  },
+                  {
+                    "PH": "Prahova"
+                  },
+                  {
+                    "SM": "Satu Mare"
+                  },
+                  {
+                    "SJ": "Sălaj"
+                  },
+                  {
+                    "SB": "Sibiu"
+                  },
+                  {
+                    "SV": "Suceava"
+                  },
+                  {
+                    "TR": "Teleorman"
+                  },
+                  {
+                    "TM": "Timiș"
+                  },
+                  {
+                    "TL": "Tulcea"
+                  },
+                  {
+                    "VS": "Vaslui"
+                  },
+                  {
+                    "VL": "Vâlcea"
+                  },
+                  {
+                    "VN": "Vrancea"
+                  },
+                  {
+                    "B": "București"
+                  }
+                ]
               }
             }
           ]
@@ -7845,6 +9957,43 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Municipality",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "01": "Acquaviva"
+                  },
+                  {
+                    "06": "Borgo Maggiore"
+                  },
+                  {
+                    "02": "Chiesanuova"
+                  },
+                  {
+                    "03": "Domagnano"
+                  },
+                  {
+                    "04": "Faetano"
+                  },
+                  {
+                    "05": "Fiorentino"
+                  },
+                  {
+                    "08": "Montegiardino"
+                  },
+                  {
+                    "07": "San Marino"
+                  },
+                  {
+                    "09": "Serravalle"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -8072,6 +10221,40 @@
               "localityname": {
                 "label": "City"
               }
+            },
+            {
+              "administrativearea": {
+                "label": "Region",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "BC": "Banskobystrický kraj"
+                  },
+                  {
+                    "BL": "Bratislavský kraj"
+                  },
+                  {
+                    "KI": "Košický kraj"
+                  },
+                  {
+                    "NI": "Nitriansky kraj"
+                  },
+                  {
+                    "PV": "Prešovský kraj"
+                  },
+                  {
+                    "TC": "Trenčiansky kraj"
+                  },
+                  {
+                    "TA": "Trnavský kraj"
+                  },
+                  {
+                    "ZI": "Žilinský kraj"
+                  }
+                ]
+              }
             }
           ]
         }
@@ -8101,6 +10284,28 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "Province",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "W": "Western Area"
+                  },
+                  {
+                    "E": "Eastern"
+                  },
+                  {
+                    "N": "Northern"
+                  },
+                  {
+                    "S": "Southern"
+                  }
+                ]
               }
             }
           ]
@@ -8548,6 +10753,57 @@
                   },
                   {
                     "Z": "Zaragoza"
+                  },
+                  {
+                    "AN": "Andalucía"
+                  },
+                  {
+                    "AR": "Aragón"
+                  },
+                  {
+                    "AS": "Asturias, Principado de"
+                  },
+                  {
+                    "CN": "Canarias"
+                  },
+                  {
+                    "CB": "Cantabria"
+                  },
+                  {
+                    "CM": "Castilla-La Mancha"
+                  },
+                  {
+                    "CL": "Castilla y León"
+                  },
+                  {
+                    "CT": "Catalunya"
+                  },
+                  {
+                    "EX": "Extremadura"
+                  },
+                  {
+                    "GA": "Galicia"
+                  },
+                  {
+                    "IB": "Illes Balears"
+                  },
+                  {
+                    "RI": "La Rioja"
+                  },
+                  {
+                    "MD": "Madrid, Comunidad de"
+                  },
+                  {
+                    "MC": "Murcia, Región de"
+                  },
+                  {
+                    "NC": "Navarra, Comunidad Foral de Nafarroako Foru Komunitatea"
+                  },
+                  {
+                    "PV": "País Vasco Euskal Herria"
+                  },
+                  {
+                    "VC": "Valenciana, Comunidad Valenciana, Comunitat"
                   }
                 ]
               }
@@ -8734,6 +10990,79 @@
             {
               "localityname": {
                 "label": "City"
+              }
+            },
+            {
+              "administrativearea": {
+                "label": "County",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "K": "Blekinge län"
+                  },
+                  {
+                    "W": "Dalarnas län"
+                  },
+                  {
+                    "I": "Gotlands län"
+                  },
+                  {
+                    "X": "Gävleborgs län"
+                  },
+                  {
+                    "N": "Hallands län"
+                  },
+                  {
+                    "Z": "Jämtlands län"
+                  },
+                  {
+                    "F": "Jönköpings län"
+                  },
+                  {
+                    "H": "Kalmar län"
+                  },
+                  {
+                    "G": "Kronobergs län"
+                  },
+                  {
+                    "BD": "Norrbottens län"
+                  },
+                  {
+                    "M": "Skåne län"
+                  },
+                  {
+                    "AB": "Stockholms län"
+                  },
+                  {
+                    "D": "Södermanlands län"
+                  },
+                  {
+                    "C": "Uppsala län"
+                  },
+                  {
+                    "S": "Värmlands län"
+                  },
+                  {
+                    "AC": "Västerbottens län"
+                  },
+                  {
+                    "Y": "Västernorrlands län"
+                  },
+                  {
+                    "U": "Västmanlands län"
+                  },
+                  {
+                    "O": "Västra Götalands län"
+                  },
+                  {
+                    "T": "Örebro län"
+                  },
+                  {
+                    "E": "Östergötlands län"
+                  }
+                ]
               }
             }
           ]
@@ -9739,7 +12068,663 @@
             },
             {
               "administrativearea": {
-                "label": "County"
+                "label": "County/Region/Authority",
+                "options": [
+                  {
+                    "": "--"
+                  },
+                  {
+                    "BKM": "Buckinghamshire"
+                  },
+                  {
+                    "CAM": "Cambridgeshire"
+                  },
+                  {
+                    "CMA": "Cumbria"
+                  },
+                  {
+                    "DBY": "Derbyshire"
+                  },
+                  {
+                    "DEV": "Devon"
+                  },
+                  {
+                    "DOR": "Dorset"
+                  },
+                  {
+                    "ESX": "East Sussex"
+                  },
+                  {
+                    "ESS": "Essex"
+                  },
+                  {
+                    "GLS": "Gloucestershire"
+                  },
+                  {
+                    "HAM": "Hampshire"
+                  },
+                  {
+                    "HRT": "Hertfordshire"
+                  },
+                  {
+                    "KEN": "Kent"
+                  },
+                  {
+                    "LAN": "Lancashire"
+                  },
+                  {
+                    "LEC": "Leicestershire"
+                  },
+                  {
+                    "LIN": "Lincolnshire"
+                  },
+                  {
+                    "NFK": "Norfolk"
+                  },
+                  {
+                    "NYK": "North Yorkshire"
+                  },
+                  {
+                    "NTH": "Northamptonshire"
+                  },
+                  {
+                    "NTT": "Nottinghamshire"
+                  },
+                  {
+                    "OXF": "Oxfordshire"
+                  },
+                  {
+                    "SOM": "Somerset"
+                  },
+                  {
+                    "STS": "Staffordshire"
+                  },
+                  {
+                    "SFK": "Suffolk"
+                  },
+                  {
+                    "SRY": "Surrey"
+                  },
+                  {
+                    "WAR": "Warwickshire"
+                  },
+                  {
+                    "WSX": "West Sussex"
+                  },
+                  {
+                    "WOR": "Worcestershire"
+                  },
+                  {
+                    "LND": "London, City of"
+                  },
+                  {
+                    "BDG": "Barking and Dagenham"
+                  },
+                  {
+                    "BNE": "Barnet"
+                  },
+                  {
+                    "BEX": "Bexley"
+                  },
+                  {
+                    "BEN": "Brent"
+                  },
+                  {
+                    "BRY": "Bromley"
+                  },
+                  {
+                    "CMD": "Camden"
+                  },
+                  {
+                    "CRY": "Croydon"
+                  },
+                  {
+                    "EAL": "Ealing"
+                  },
+                  {
+                    "ENF": "Enfield"
+                  },
+                  {
+                    "GRE": "Greenwich"
+                  },
+                  {
+                    "HCK": "Hackney"
+                  },
+                  {
+                    "HMF": "Hammersmith and Fulham"
+                  },
+                  {
+                    "HRY": "Haringey"
+                  },
+                  {
+                    "HRW": "Harrow"
+                  },
+                  {
+                    "HAV": "Havering"
+                  },
+                  {
+                    "HIL": "Hillingdon"
+                  },
+                  {
+                    "HNS": "Hounslow"
+                  },
+                  {
+                    "ISL": "Islington"
+                  },
+                  {
+                    "KEC": "Kensington and Chelsea"
+                  },
+                  {
+                    "KTT": "Kingston upon Thames"
+                  },
+                  {
+                    "LBH": "Lambeth"
+                  },
+                  {
+                    "LEW": "Lewisham"
+                  },
+                  {
+                    "MRT": "Merton"
+                  },
+                  {
+                    "NWM": "Newham"
+                  },
+                  {
+                    "RDB": "Redbridge"
+                  },
+                  {
+                    "RIC": "Richmond upon Thames"
+                  },
+                  {
+                    "SWK": "Southwark"
+                  },
+                  {
+                    "STN": "Sutton"
+                  },
+                  {
+                    "TWH": "Tower Hamlets"
+                  },
+                  {
+                    "WFT": "Waltham Forest"
+                  },
+                  {
+                    "WND": "Wandsworth"
+                  },
+                  {
+                    "WSM": "Westminster"
+                  },
+                  {
+                    "BNS": "Barnsley"
+                  },
+                  {
+                    "BIR": "Birmingham"
+                  },
+                  {
+                    "BOL": "Bolton"
+                  },
+                  {
+                    "BRD": "Bradford"
+                  },
+                  {
+                    "BUR": "Bury"
+                  },
+                  {
+                    "CLD": "Calderdale"
+                  },
+                  {
+                    "COV": "Coventry"
+                  },
+                  {
+                    "DNC": "Doncaster"
+                  },
+                  {
+                    "DUD": "Dudley"
+                  },
+                  {
+                    "GAT": "Gateshead"
+                  },
+                  {
+                    "KIR": "Kirklees"
+                  },
+                  {
+                    "KWL": "Knowsley"
+                  },
+                  {
+                    "LDS": "Leeds"
+                  },
+                  {
+                    "LIV": "Liverpool"
+                  },
+                  {
+                    "MAN": "Manchester"
+                  },
+                  {
+                    "NET": "Newcastle upon Tyne"
+                  },
+                  {
+                    "NTY": "North Tyneside"
+                  },
+                  {
+                    "OLD": "Oldham"
+                  },
+                  {
+                    "RCH": "Rochdale"
+                  },
+                  {
+                    "ROT": "Rotherham"
+                  },
+                  {
+                    "SHN": "St. Helens"
+                  },
+                  {
+                    "SLF": "Salford"
+                  },
+                  {
+                    "SAW": "Sandwell"
+                  },
+                  {
+                    "SFT": "Sefton"
+                  },
+                  {
+                    "SHF": "Sheffield"
+                  },
+                  {
+                    "SOL": "Solihull"
+                  },
+                  {
+                    "STY": "South Tyneside"
+                  },
+                  {
+                    "SKP": "Stockport"
+                  },
+                  {
+                    "SND": "Sunderland"
+                  },
+                  {
+                    "TAM": "Tameside"
+                  },
+                  {
+                    "TRF": "Trafford"
+                  },
+                  {
+                    "WKF": "Wakefield"
+                  },
+                  {
+                    "WLL": "Walsall"
+                  },
+                  {
+                    "WGN": "Wigan"
+                  },
+                  {
+                    "WRL": "Wirral"
+                  },
+                  {
+                    "WLV": "Wolverhampton"
+                  },
+                  {
+                    "BAS": "Bath and North East Somerset"
+                  },
+                  {
+                    "BDF": "Bedford"
+                  },
+                  {
+                    "BBD": "Blackburn with Darwen"
+                  },
+                  {
+                    "BPL": "Blackpool"
+                  },
+                  {
+                    "BMH": "Bournemouth"
+                  },
+                  {
+                    "BRC": "Bracknell Forest"
+                  },
+                  {
+                    "BNH": "Brighton and Hove"
+                  },
+                  {
+                    "BST": "Bristol, City of"
+                  },
+                  {
+                    "CBF": "Central Bedfordshire"
+                  },
+                  {
+                    "CHE": "Cheshire East"
+                  },
+                  {
+                    "CHW": "Cheshire West and Chester"
+                  },
+                  {
+                    "CON": "Cornwall"
+                  },
+                  {
+                    "DAL": "Darlington"
+                  },
+                  {
+                    "DER": "Derby"
+                  },
+                  {
+                    "DUR": "Durham, County"
+                  },
+                  {
+                    "ERY": "East Riding of Yorkshire"
+                  },
+                  {
+                    "HAL": "Halton"
+                  },
+                  {
+                    "HPL": "Hartlepool"
+                  },
+                  {
+                    "HEF": "Herefordshire"
+                  },
+                  {
+                    "IOW": "Isle of Wight"
+                  },
+                  {
+                    "IOS": "Isles of Scilly"
+                  },
+                  {
+                    "KHL": "Kingston upon Hull"
+                  },
+                  {
+                    "LCE": "Leicester"
+                  },
+                  {
+                    "LUT": "Luton"
+                  },
+                  {
+                    "MDW": "Medway"
+                  },
+                  {
+                    "MDB": "Middlesbrough"
+                  },
+                  {
+                    "MIK": "Milton Keynes"
+                  },
+                  {
+                    "NEL": "North East Lincolnshire"
+                  },
+                  {
+                    "NLN": "North Lincolnshire"
+                  },
+                  {
+                    "NSM": "North Somerset"
+                  },
+                  {
+                    "NBL": "Northumberland"
+                  },
+                  {
+                    "NGM": "Nottingham"
+                  },
+                  {
+                    "PTE": "Peterborough"
+                  },
+                  {
+                    "PLY": "Plymouth"
+                  },
+                  {
+                    "POL": "Poole"
+                  },
+                  {
+                    "POR": "Portsmouth"
+                  },
+                  {
+                    "RDG": "Reading"
+                  },
+                  {
+                    "RCC": "Redcar and Cleveland"
+                  },
+                  {
+                    "RUT": "Rutland"
+                  },
+                  {
+                    "SHR": "Shropshire"
+                  },
+                  {
+                    "SLG": "Slough"
+                  },
+                  {
+                    "SGC": "South Gloucestershire"
+                  },
+                  {
+                    "STH": "Southampton"
+                  },
+                  {
+                    "SOS": "Southend-on-Sea"
+                  },
+                  {
+                    "STT": "Stockton-on-Tees"
+                  },
+                  {
+                    "STE": "Stoke-on-Trent"
+                  },
+                  {
+                    "SWD": "Swindon"
+                  },
+                  {
+                    "TFW": "Telford and Wrekin"
+                  },
+                  {
+                    "THR": "Thurrock"
+                  },
+                  {
+                    "TOB": "Torbay"
+                  },
+                  {
+                    "WRT": "Warrington"
+                  },
+                  {
+                    "WBK": "West Berkshire"
+                  },
+                  {
+                    "WIL": "Wiltshire"
+                  },
+                  {
+                    "WNM": "Windsor and Maidenhead"
+                  },
+                  {
+                    "WOK": "Wokingham"
+                  },
+                  {
+                    "YOR": "York"
+                  },
+                  {
+                    "ANN": "Antrim and Newtownabbey"
+                  },
+                  {
+                    "AND": "Ards and North Down"
+                  },
+                  {
+                    "ABC": "Armagh, Banbridge and Craigavon"
+                  },
+                  {
+                    "BFS": "Belfast"
+                  },
+                  {
+                    "CCG": "Causeway Coast and Glens"
+                  },
+                  {
+                    "DRS": "Derry and Strabane"
+                  },
+                  {
+                    "FMO": "Fermanagh and Omagh"
+                  },
+                  {
+                    "LBC": "Lisburn and Castlereagh"
+                  },
+                  {
+                    "MEA": "Mid and East Antrim"
+                  },
+                  {
+                    "MUL": "Mid Ulster"
+                  },
+                  {
+                    "NMD": "Newry, Mourne and Down"
+                  },
+                  {
+                    "ABE": "Aberdeen City"
+                  },
+                  {
+                    "ABD": "Aberdeenshire"
+                  },
+                  {
+                    "ANS": "Angus"
+                  },
+                  {
+                    "AGB": "Argyll and Bute"
+                  },
+                  {
+                    "CLK": "Clackmannanshire"
+                  },
+                  {
+                    "DGY": "Dumfries and Galloway"
+                  },
+                  {
+                    "DND": "Dundee City"
+                  },
+                  {
+                    "EAY": "East Ayrshire"
+                  },
+                  {
+                    "EDU": "East Dunbartonshire"
+                  },
+                  {
+                    "ELN": "East Lothian"
+                  },
+                  {
+                    "ERW": "East Renfrewshire"
+                  },
+                  {
+                    "EDH": "Edinburgh, City of"
+                  },
+                  {
+                    "ELS": "Eilean Siar"
+                  },
+                  {
+                    "FAL": "Falkirk"
+                  },
+                  {
+                    "FIF": "Fife"
+                  },
+                  {
+                    "GLG": "Glasgow City"
+                  },
+                  {
+                    "HLD": "Highland"
+                  },
+                  {
+                    "IVC": "Inverclyde"
+                  },
+                  {
+                    "MLN": "Midlothian"
+                  },
+                  {
+                    "MRY": "Moray"
+                  },
+                  {
+                    "NAY": "North Ayrshire"
+                  },
+                  {
+                    "NLK": "North Lanarkshire"
+                  },
+                  {
+                    "ORK": "Orkney Islands"
+                  },
+                  {
+                    "PKN": "Perth and Kinross"
+                  },
+                  {
+                    "RFW": "Renfrewshire"
+                  },
+                  {
+                    "SCB": "Scottish Borders, The"
+                  },
+                  {
+                    "ZET": "Shetland Islands"
+                  },
+                  {
+                    "SAY": "South Ayrshire"
+                  },
+                  {
+                    "SLK": "South Lanarkshire"
+                  },
+                  {
+                    "STG": "Stirling"
+                  },
+                  {
+                    "WDU": "West Dunbartonshire"
+                  },
+                  {
+                    "WLN": "West Lothian"
+                  },
+                  {
+                    "BGW": "Blaenau Gwent"
+                  },
+                  {
+                    "BGE": "Bridgend"
+                  },
+                  {
+                    "CAY": "Caerphilly"
+                  },
+                  {
+                    "CRF": "Cardiff"
+                  },
+                  {
+                    "CMN": "Carmarthenshire"
+                  },
+                  {
+                    "CGN": "Ceredigion"
+                  },
+                  {
+                    "CWY": "Conwy"
+                  },
+                  {
+                    "DEN": "Denbighshire"
+                  },
+                  {
+                    "FLN": "Flintshire"
+                  },
+                  {
+                    "GWN": "Gwynedd"
+                  },
+                  {
+                    "AGY": "Isle of Anglesey"
+                  },
+                  {
+                    "MTY": "Merthyr Tydfil"
+                  },
+                  {
+                    "MON": "Monmouthshire"
+                  },
+                  {
+                    "NTL": "Neath Port Talbot"
+                  },
+                  {
+                    "NWP": "Newport"
+                  },
+                  {
+                    "PEM": "Pembrokeshire"
+                  },
+                  {
+                    "POW": "Powys"
+                  },
+                  {
+                    "RCT": "Rhondda, Cynon, Taff"
+                  },
+                  {
+                    "SWA": "Swansea"
+                  },
+                  {
+                    "TOF": "Torfaen"
+                  },
+                  {
+                    "VGL": "Vale of Glamorgan, The"
+                  },
+                  {
+                    "WRX": "Wrexham"
+                  }
+                ]
               }
             },
             {
